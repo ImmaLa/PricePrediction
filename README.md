@@ -1,16 +1,36 @@
-# Predicting House Prices – Maple Valley Realty
-This project develops a regression-based predictive model to estimate house prices using property features and market data. The goal is to support data-driven pricing decisions for sellers, buyers, and real estate investors.
+Predicting House Prices – Maple Valley Realty
 
-The model helps Maple Valley Realty:Recommend competitive pricing for sellers, Provide buyers with fair market valuations, Identify undervalued properties for investors. 
+Built a regression-based model to predict house prices using property features and market data, supporting data-driven pricing decisions.
 
-The features used in the project include: Location, Property Type, Size In SqFt, Bedrooms, Bathrooms, Year Built, Garage Spaces, Lot Size, Near by Schools, Market trend.
-Property size and bedrooms are the strongest drivers of price
+Business Value
 
-The key insights from this analysis: 
-Bathrooms, garage spaces, newer builds, and proximity to good schools increase value.
-Location and large lot sizes can negatively impact price in certain areas.
-Market trends meaningfully influence property valuation.
+Recommend competitive pricing for sellers
 
-For the model performace R²: 0.86 (explains 86% of price variation), MAE: $67,620, RMSE: $90,705, Residuals show a normal distribution, indicating minimal bias.
+Provide fair market valuations for buyers
 
-The model delivers reliable house price predictions and actionable insights, enabling smarter pricing strategies and improved customer trust.
+Identify undervalued properties for investors
+
+Key Features
+Location, Property Type, Size (SqFt), Bedrooms, Bathrooms, Year Built, Garage Spaces, Lot Size, Nearby Schools, Market Trend
+Key Insights
+
+Property size and bedrooms are the strongest price drivers
+
+Bathrooms, garage spaces, newer homes, and nearby schools increase value
+
+Location and large lot sizes can negatively impact prices
+
+Market trends meaningfully influence valuation
+
+Model Performance
+
+R²: 0.86
+
+MAE: $67,620
+
+RMSE: $90,705
+
+Residuals indicate minimal model bias
+
+Outcome
+Delivered reliable price predictions and actionable insights to improve pricing strategies and customer trust.
