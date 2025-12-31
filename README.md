@@ -32,5 +32,5 @@ RMSE: $90,705
 
 Residuals indicate minimal model bias
 
-Outcome
-Delivered reliable price predictions and actionable insights to improve pricing strategies and customer trust.
+Outcome:
+delivered reliable price predictions and actionable insights to improve pricing strategies and customer trust.
