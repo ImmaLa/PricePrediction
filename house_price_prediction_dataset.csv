@@ -1,0 +1,1501 @@
+PropertyID,Location,PropertyType,SizeInSqFt,Bedrooms,Bathrooms,YearBuilt,GarageSpaces,LotSize,NearbySchools,MarketTrend,SellingPrice
+1,Downtown,Condo,1217,2,1,1959,0,2273,4,1,391780
+2,Beachfront,Single Family,2385,5,3,2006,1,1631,5,1,1195998
+3,Suburbs,Single Family,2405,6,3,1986,3,3800,1,1,736928
+4,Suburbs,Single Family,1790,2,2,2013,1,4347,7,1,528240
+5,Downtown,Single Family,2563,5,2,1989,3,3320,7,1,958097
+6,Downtown,Single Family,2278,4,2,2009,3,1000,8,0,850575
+7,Downtown,Condo,789,1,1,1997,0,3644,6,0,275421
+8,Countryside,Condo,943,2,1,1968,1,8315,7,0,177003
+9,Suburbs,Condo,500,,1,2021,2,4403,7,0,201774
+10,Suburbs,Condo,1022,1,1,1982,2,,1,-1,254662
+11,Downtown,Townhouse,891,1,1,1993,1,1000,4,0,336483
+12,Beachfront,Condo,,1,1,1986,3,,6,0,376613
+13,Countryside,Townhouse,743,1,1,1985,0,7522,7,0,159362
+14,Downtown,Single Family,2533,5,2,1970,0,2117,2,1,874854
+15,Downtown,Single Family,2011,4,2,1951,1,,7,0,762222
+16,Downtown,Single Family,2660,5,2,1980,1,2537,6,-1,920504
+17,Downtown,Condo,739,1,1,1979,0,,6,1,276940
+18,Suburbs,Townhouse,687,2,1,1993,1,6216,4,0,253316
+19,Suburbs,Single Family,1865,4,2,1961,0,5150,6,-1,556072
+20,Downtown,Townhouse,1570,3,2,2000,1,3599,1,0,521954
+21,Suburbs,Single Family,2153,3,1,1998,2,4327,2,0,556266
+22,Downtown,Townhouse,1035,2,1,1973,2,1000,7,1,452104
+23,Downtown,Single Family,2248,3,1,1973,1,1000,5,0,754880
+24,Downtown,Single Family,,3,1,2009,1,1894,5,-1,749829
+25,Suburbs,Single Family,2535,5,3,1960,1,3765,4,0,728183
+26,Suburbs,Single Family,2634,6,3,1962,0,3751,6,1,790068
+27,Downtown,Single Family,2092,5,4,2021,1,3034,2,0,829442
+28,Suburbs,Single Family,1802,4,1,2021,0,3277,5,1,541042
+29,Suburbs,Townhouse,1075,1,1,2013,2,5103,6,-1,303147
+30,Downtown,Condo,978,1,1,1969,3,1916,6,1,376642
+31,Suburbs,Single Family,1910,4,2,2021,1,5092,10,1,620947
+32,Downtown,Condo,612,1,1,2022,2,3384,5,1,276529
+33,Downtown,Condo,1003,1,1,2020,0,1174,5,0,315632
+34,Countryside,Single Family,2185,4,3,1977,1,9384,6,1,453547
+35,Beachfront,Single Family,2209,4,2,1951,2,1000,3,0,1052613
+36,Countryside,Single Family,1972,4,2,1992,1,8650,8,1,422859
+37,Downtown,Single Family,2130,2,2,1957,0,3476,6,0,701915
+38,Downtown,Condo,622,1,1,1962,2,1000,3,-1,250090
+39,Suburbs,Single Family,2467,6,2,1984,2,4964,7,0,740520
+40,Suburbs,Condo,1210,3,1,1972,2,4883,1,0,328696
+41,Downtown,Condo,500,1,1,1995,2,,10,0,269240
+42,Suburbs,Single Family,1921,4,2,1964,3,6711,8,0,626592
+43,Downtown,Condo,500,1,1,1951,0,1236,6,0,213135
+44,Countryside,Single Family,2004,3,2,2010,0,6815,3,1,372248
+45,Downtown,Townhouse,1174,1,1,2013,1,2079,4,-1,380881
+46,Suburbs,Single Family,1765,5,3,2001,0,6124,4,0,569187
+47,Downtown,Townhouse,923,3,2,1985,1,2558,4,1,428903
+48,Suburbs,Condo,598,1,1,2016,1,5034,6,0,208621
+49,Suburbs,Single Family,2262,5,2,2018,1,4770,9,0,694632
+50,Downtown,Condo,920,,1,2016,0,1000,6,0,329001
+51,Beachfront,Townhouse,983,1,1,1996,3,2585,7,0,548324
+52,Suburbs,Condo,953,1,1,1951,0,5705,7,-1,254582
+53,Countryside,Townhouse,1035,3,2,1993,1,7307,8,0,248694
+54,Countryside,Townhouse,1118,1,1,2013,2,7535,1,1,193697
+55,Suburbs,Single Family,2702,6,3,1977,2,3951,6,0,799130
+56,Countryside,Single Family,2602,5,3,2003,1,8868,7,-1,473709
+57,Downtown,Condo,510,,1,2016,0,1634,8,1,276169
+58,Downtown,Single Family,2448,4,3,1985,1,1850,9,0,910017
+59,Downtown,Townhouse,1443,3,1,2012,0,2629,7,-1,502910
+60,Downtown,Townhouse,855,1,1,1974,0,2326,4,1,328835
+61,Downtown,Single Family,2445,,2,1997,1,2563,6,-1,827726
+62,Downtown,Single Family,,6,,1988,1,2174,1,1,960223
+63,Countryside,Condo,563,2,1,1996,1,8197,7,0,171312
+64,Downtown,Single Family,1924,3,2,1970,1,2187,6,1,732876
+65,Downtown,Townhouse,,1,1,1979,3,2452,7,0,505498
+66,Suburbs,Single Family,2281,4,2,1980,3,5501,9,-1,666181
+67,Downtown,Condo,1065,,1,1975,1,1000,7,0,370080
+68,Countryside,Single Family,2302,5,2,1971,0,,5,1,440712
+69,Downtown,Condo,1017,2,1,1970,1,,3,1,356300
+70,Beachfront,Single Family,,3,,1950,0,2451,8,0,855413
+71,Suburbs,Condo,1214,,2,1986,1,6597,3,1,358770
+72,Downtown,Single Family,2550,6,2,1995,1,1186,3,-1,880373
+73,Downtown,Condo,831,1,1,1958,1,2878,4,-1,264382
+74,Countryside,Townhouse,1186,1,1,1966,1,7431,6,-1,201753
+75,Suburbs,Single Family,1740,3,1,1996,0,6370,3,1,497770
+76,Suburbs,Single Family,2354,,2,2008,1,,9,1,693040
+77,Suburbs,Single Family,2371,5,3,2003,1,3251,10,0,760122
+78,Downtown,Condo,881,2,1,1961,1,,10,1,380337
+79,Downtown,Condo,1237,1,1,2013,1,1000,1,0,354554
+80,Downtown,Condo,799,1,1,1955,1,1000,9,0,317036
+81,Countryside,Single Family,2369,5,2,2002,1,,10,-1,470760
+82,Suburbs,Single Family,,5,2,1965,1,5624,9,1,646890
+83,Downtown,Condo,892,2,1,1954,0,2436,7,-1,293188
+84,Downtown,Single Family,2147,5,2,2022,0,2801,7,0,799778
+85,Downtown,Townhouse,1267,3,2,1995,1,2607,3,0,465396
+86,Downtown,Single Family,2089,5,2,1963,0,2485,8,-1,766158
+87,Suburbs,Condo,860,3,1,1993,1,5111,2,0,255314
+88,Suburbs,Single Family,2447,4,3,2012,2,4869,5,-1,680523
+89,Countryside,Single Family,2068,4,2,2001,3,9019,10,1,459941
+90,Suburbs,Condo,500,1,1,1975,3,5012,6,0,211916
+91,Downtown,Condo,1424,3,1,2002,0,2525,3,0,403901
+92,Suburbs,Townhouse,1614,5,2,1978,3,2669,10,1,556140
+93,Suburbs,Single Family,1812,3,1,1968,1,3824,10,0,537879
+94,Suburbs,Single Family,2406,3,1,1996,1,5980,3,1,625622
+95,Suburbs,Condo,749,1,1,1957,0,4331,8,-1,221937
+96,Suburbs,Condo,979,2,1,1972,2,3604,5,-1,267496
+97,Suburbs,Single Family,2288,5,2,1984,0,5641,5,-1,648173
+98,Suburbs,Single Family,2129,5,3,2002,2,,4,1,681020
+99,Downtown,Single Family,1964,3,2,2007,0,1593,1,1,672358
+100,Downtown,Townhouse,,1,1,1954,1,3509,4,0,348804
+101,Downtown,Single Family,,4,2,1965,1,3337,2,0,703031
+102,Suburbs,Single Family,1950,3,2,1966,0,4812,9,-1,559606
+103,Downtown,Single Family,2179,6,4,1981,0,2722,7,-1,876165
+104,Suburbs,Single Family,1985,4,1,2001,1,2761,8,0,588363
+105,Countryside,Single Family,2404,5,3,1969,0,9093,7,-1,452080
+106,Downtown,Condo,1346,2,2,2015,1,1000,3,0,414310
+107,Suburbs,Single Family,2025,4,2,1950,1,3547,9,0,625266
+108,Suburbs,Townhouse,1271,2,1,2007,2,3214,8,1,396851
+109,Downtown,Single Family,2349,6,2,1993,1,1000,5,0,879891
+110,Downtown,Condo,1041,2,1,1955,0,3080,3,0,326134
+111,Downtown,Townhouse,1222,2,1,1999,1,2631,7,0,444617
+112,Downtown,Condo,1122,3,2,2021,0,,7,-1,395655
+113,Countryside,Condo,1044,2,2,1969,3,8854,8,1,238761
+114,Countryside,Single Family,1828,4,,1963,2,7405,2,-1,353522
+115,Suburbs,Single Family,2460,5,2,1954,1,5323,3,-1,677909
+116,Countryside,Condo,1166,2,1,1990,0,7517,6,0,185421
+117,Countryside,Townhouse,971,2,1,1989,2,7880,7,1,234647
+118,Downtown,Condo,911,1,1,1983,2,1091,1,-1,278639
+119,Countryside,Condo,1104,4,2,1994,2,7240,5,-1,222744
+120,Suburbs,Condo,,3,,2020,2,5544,6,-1,295154
+121,Countryside,Single Family,2521,5,3,2020,1,8704,7,0,470393
+122,Countryside,Single Family,2909,5,3,1976,0,,5,0,512006
+123,Downtown,Condo,664,1,1,1993,1,1000,6,-1,261609
+124,Downtown,Townhouse,785,1,1,1982,1,4471,8,1,365146
+125,Downtown,Single Family,2291,5,2,1982,1,2036,10,1,894509
+126,Suburbs,Condo,1116,2,2,1993,1,5312,4,0,306394
+127,Countryside,Single Family,2130,5,2,1969,0,6738,4,0,440103
+128,Countryside,Condo,1335,4,2,1985,1,9215,9,0,270914
+129,Downtown,Single Family,1798,4,2,1956,1,3367,5,0,686555
+130,Suburbs,Single Family,2407,4,3,1981,0,3291,7,0,695246
+131,Suburbs,Condo,718,2,2,2016,1,4897,7,-1,245590
+132,Downtown,Single Family,2715,6,3,1988,2,,4,0,985918
+133,Downtown,Condo,1497,6,3,1973,2,4388,7,0,579191
+134,Downtown,Condo,670,1,1,2019,1,3443,7,-1,260886
+135,Countryside,Townhouse,1035,2,1,2003,1,6549,6,-1,196706
+136,Downtown,Single Family,2457,3,2,1987,0,1271,2,-1,768574
+137,Suburbs,Single Family,2083,5,3,1981,1,4107,10,1,691746
+138,Suburbs,Single Family,2186,4,2,1994,1,5371,6,-1,607391
+139,Downtown,Townhouse,1207,4,2,2010,1,3572,7,1,534190
+140,Beachfront,Townhouse,624,1,1,2019,2,2109,8,0,438938
+141,Beachfront,Condo,895,1,1,2002,1,2501,6,1,447222
+142,Downtown,Townhouse,993,1,1,2000,0,1335,7,0,345104
+143,Suburbs,Condo,752,1,1,2005,0,5495,10,1,239217
+144,Downtown,Condo,,3,3,1976,1,1528,5,-1,443107
+145,Downtown,Single Family,1823,1,,1987,1,1000,6,0,601535
+146,Downtown,Condo,1143,2,1,2011,2,2430,9,-1,383911
+147,Suburbs,Single Family,2116,2,1,1967,1,4990,3,0,547592
+148,Suburbs,Townhouse,1116,1,1,2013,1,3902,1,0,301036
+149,Downtown,Condo,1137,3,1,1979,1,3645,9,0,429181
+150,Downtown,Condo,1002,2,2,1998,1,,8,0,376828
+151,Countryside,Single Family,2371,4,2,1990,1,8609,10,-1,446457
+152,Downtown,Single Family,2490,5,3,1962,1,1637,2,0,878434
+153,Downtown,Single Family,2100,5,3,1983,1,3543,3,0,813050
+154,Suburbs,Single Family,2016,5,2,1974,0,4762,3,-1,568020
+155,Beachfront,Single Family,1874,2,1,2015,2,1000,7,1,905861
+156,Downtown,Townhouse,952,2,1,1967,1,2810,7,1,399666
+157,Suburbs,Condo,1784,1,1,1954,0,6539,5,1,367806
+158,Suburbs,Single Family,2573,5,1,1968,0,4572,2,1,692361
+159,Downtown,Single Family,1794,3,1,1991,0,2678,7,-1,613846
+160,Suburbs,Single Family,1803,4,2,1967,1,5129,6,1,574223
+161,Downtown,Condo,1044,2,1,1981,0,1617,3,0,330712
+162,Suburbs,Condo,1064,1,1,1970,0,5840,9,-1,267627
+163,Suburbs,Townhouse,1364,2,1,1959,1,4199,3,1,370969
+164,Suburbs,Single Family,2123,5,3,1986,1,5032,7,-1,663566
+165,Downtown,Townhouse,1162,1,1,1998,0,2257,8,0,399481
+166,Countryside,Townhouse,1298,2,1,1962,1,8221,6,-1,240653
+167,Downtown,Single Family,2225,4,2,2004,2,1224,4,0,804298
+168,Downtown,Townhouse,534,1,1,1966,3,4059,5,0,299860
+169,Downtown,Single Family,2131,4,1,1958,1,3262,8,0,777278
+170,Suburbs,Townhouse,944,1,1,1993,0,5990,4,-1,258820
+171,Suburbs,Single Family,2252,6,3,1995,2,6433,7,0,728104
+172,Downtown,Townhouse,2095,3,1,1957,1,2068,10,0,661311
+173,Suburbs,Townhouse,1310,1,1,1986,0,4628,10,-1,360571
+174,Downtown,Townhouse,1105,,1,1968,2,1000,6,1,463946
+175,Suburbs,Condo,1176,1,1,2012,1,4296,8,0,295406
+176,Downtown,Single Family,2344,,2,1995,3,1000,10,1,906564
+177,Suburbs,Single Family,,4,3,2020,2,4471,5,-1,665524
+178,Downtown,Single Family,2382,4,,1975,1,2276,4,0,813798
+179,Countryside,Single Family,2816,6,3,1995,2,8914,3,-1,530553
+180,Downtown,Condo,,1,1,1995,1,2886,3,0,261074
+181,Downtown,Single Family,2342,5,3,1963,1,,8,-1,894953
+182,Downtown,Townhouse,922,1,1,2012,2,2689,6,0,383455
+183,Countryside,Condo,1066,1,1,2021,1,9143,8,0,194187
+184,Countryside,Townhouse,924,1,1,1952,2,,7,-1,183825
+185,Downtown,Single Family,2074,4,2,1977,2,3197,7,0,799368
+186,Suburbs,Townhouse,1111,2,2,1978,3,5875,7,1,362578
+187,Countryside,Townhouse,,3,1,1967,2,6735,1,-1,265908
+188,Suburbs,Single Family,2475,5,2,1984,1,7191,8,1,744978
+189,Suburbs,Condo,526,1,1,1996,0,4284,6,1,197514
+190,Downtown,Condo,916,1,1,1954,2,2957,6,0,343593
+191,Downtown,Single Family,1987,4,3,2008,0,2921,1,1,717742
+192,Countryside,Condo,522,1,1,2008,0,,9,1,156006
+193,Countryside,Single Family,2134,3,2,1996,0,8178,9,0,402423
+194,Suburbs,Single Family,2107,5,2,1962,2,5908,6,0,669507
+195,Downtown,Single Family,2928,6,3,1982,2,1000,6,0,1066201
+196,Downtown,Single Family,2329,4,1,2011,1,2099,7,0,824140
+197,Suburbs,Single Family,,4,3,1965,1,5992,4,0,576754
+198,Countryside,Single Family,2030,6,3,1993,1,9057,4,1,454919
+199,Countryside,Townhouse,1506,2,1,2007,1,7602,7,1,291661
+200,Suburbs,Condo,1526,3,2,1955,1,6544,3,-1,369554
+201,Suburbs,Townhouse,724,1,1,1964,1,6305,6,-1,247023
+202,Downtown,Single Family,1636,4,2,1953,1,2241,6,1,682964
+203,Downtown,Single Family,2761,6,3,2005,1,1341,5,-1,974142
+204,Countryside,Condo,1016,2,,2013,1,6834,3,0,186269
+205,Suburbs,Single Family,1939,2,1,2017,1,5377,5,-1,506967
+206,Downtown,Single Family,2360,5,2,1983,3,3464,5,-1,880569
+207,Downtown,Condo,500,2,1,2005,0,1852,6,-1,238078
+208,Suburbs,Single Family,2201,5,3,1981,1,4140,7,0,676394
+209,Downtown,Condo,998,2,1,1958,1,2824,10,-1,378430
+210,Downtown,Condo,,1,1,2012,0,2174,3,0,332633
+211,Suburbs,Single Family,1895,4,1,2021,1,5515,8,0,567088
+212,Suburbs,Single Family,2225,,2,1982,0,4474,4,0,653890
+213,Suburbs,Condo,622,1,1,1970,1,4630,6,1,228267
+214,Downtown,Single Family,2276,5,3,2004,1,1470,6,0,883488
+215,Suburbs,Single Family,1931,3,2,2006,2,5499,6,0,572591
+216,Downtown,Townhouse,1077,1,1,1951,1,1660,7,0,389192
+217,Downtown,Single Family,1901,4,3,1962,0,2592,5,0,717135
+218,Suburbs,Condo,1095,2,1,1953,2,4378,5,1,305331
+219,Suburbs,Townhouse,1457,1,1,1999,0,5497,8,0,367137
+220,Countryside,Single Family,2129,6,3,1997,2,8703,4,0,465830
+221,Suburbs,Single Family,2211,5,2,1979,3,5331,3,1,670707
+222,Suburbs,Single Family,1765,3,1,1978,1,,1,0,479367
+223,Downtown,Single Family,2110,3,,1957,3,1518,4,-1,738966
+224,Downtown,Single Family,2184,4,2,1961,2,2692,6,0,776691
+225,Downtown,Condo,1686,3,1,1990,3,2233,6,1,541802
+226,Downtown,Single Family,1866,4,1,1975,1,1190,4,0,669096
+227,Beachfront,Condo,1339,2,1,1999,0,1000,2,1,512948
+228,Downtown,Townhouse,1499,1,1,1951,2,1000,7,0,507233
+229,Countryside,Townhouse,1284,2,1,2004,0,5791,7,0,239715
+230,Suburbs,Condo,1427,2,1,2005,0,5426,10,1,390570
+231,Suburbs,Single Family,2311,5,3,1963,0,4675,9,0,710268
+232,Suburbs,Condo,1016,1,1,1955,1,5087,9,1,281704
+233,Suburbs,Condo,,3,2,2010,1,4819,7,1,319577
+234,Suburbs,Single Family,2567,4,2,1961,2,5581,7,1,743299
+235,Downtown,Single Family,,6,,1962,3,2610,3,-1,971219
+236,Suburbs,Townhouse,1012,,1,1968,0,5042,7,-1,280847
+237,Downtown,Single Family,1804,4,2,1993,3,2103,2,1,704090
+238,Downtown,Single Family,2139,5,1,2008,3,2143,8,0,830776
+239,Suburbs,Single Family,1959,5,3,1986,0,6391,6,0,639676
+240,Downtown,Single Family,2180,4,3,1974,1,,7,-1,798033
+241,Countryside,Townhouse,1571,1,1,1965,2,7329,2,-1,240882
+242,Beachfront,Condo,762,2,1,1987,1,2865,6,0,424932
+243,Countryside,Condo,887,1,1,1992,2,9107,5,-1,168197
+244,Downtown,Single Family,2217,5,3,1963,2,2427,4,-1,822902
+245,Downtown,Single Family,2454,6,4,1955,1,1815,5,-1,933914
+246,Countryside,Single Family,1525,1,1,1972,0,9861,1,-1,261069
+247,Suburbs,Single Family,2017,5,3,2009,1,5177,6,1,657264
+248,Beachfront,Single Family,2263,4,2,1961,0,2030,6,1,1093312
+249,Beachfront,Condo,1260,2,1,1962,1,3331,8,-1,548877
+250,Countryside,Single Family,2052,5,3,1955,2,,6,-1,424724
+251,Downtown,Condo,,1,1,2012,1,2939,5,0,231050
+252,Downtown,Single Family,2385,4,2,1987,3,3056,10,0,903576
+253,Countryside,Single Family,2009,6,3,1999,1,7627,6,1,437624
+254,Downtown,Single Family,1843,4,2,2001,2,3767,6,1,742770
+255,Downtown,Townhouse,1012,1,1,1989,1,1000,6,1,392461
+256,Suburbs,Townhouse,1144,2,1,1957,3,3020,8,0,367778
+257,Countryside,Townhouse,1018,1,,2010,2,7319,5,0,209881
+258,Suburbs,Single Family,1538,4,2,1957,0,4576,5,0,492999
+259,Suburbs,Single Family,2469,5,3,1983,3,5362,7,-1,737888
+260,Downtown,Condo,1282,3,2,2009,1,1310,2,-1,418441
+261,Suburbs,Single Family,2395,6,3,2006,0,4988,8,-1,738680
+262,Beachfront,Townhouse,858,1,1,1995,1,1794,6,0,449893
+263,Downtown,Single Family,2139,6,4,1971,2,4004,6,-1,873887
+264,Suburbs,Single Family,2198,3,,1989,1,4195,7,-1,605628
+265,Countryside,Single Family,2379,6,,1994,1,6316,4,0,485669
+266,Suburbs,Single Family,2400,5,1,2004,2,6119,8,1,706793
+267,Suburbs,Condo,679,1,1,2000,2,4286,10,-1,253606
+268,Suburbs,Single Family,2224,3,1,1954,1,4908,6,0,596532
+269,Downtown,Single Family,2337,4,2,1962,0,1353,9,-1,810707
+270,Downtown,Single Family,2636,4,2,1977,0,2737,1,1,875317
+271,Countryside,Single Family,2411,5,2,2011,2,6625,8,-1,485665
+272,Countryside,Condo,1136,1,1,1973,2,5200,5,1,191726
+273,Countryside,Townhouse,1225,,1,1956,0,9295,5,-1,243671
+274,Countryside,Townhouse,1623,4,,1987,1,8247,4,1,312442
+275,Suburbs,Condo,1022,2,2,1986,0,6072,5,-1,284675
+276,Suburbs,Single Family,1941,2,1,2017,2,6262,4,-1,528773
+277,Suburbs,Condo,1321,2,1,1991,0,4083,9,-1,312912
+278,Suburbs,Single Family,2409,6,3,1954,0,5060,8,-1,722623
+279,Suburbs,Single Family,2067,4,2,2013,0,5505,3,1,588842
+280,Suburbs,Townhouse,1056,,2,1999,1,4891,3,0,351656
+281,Countryside,Single Family,2288,4,2,1964,1,7687,8,0,447733
+282,Downtown,Townhouse,1338,3,2,2022,0,1786,5,1,506109
+283,Downtown,Single Family,2259,6,3,2002,3,3083,3,0,881182
+284,Downtown,Condo,993,3,2,1974,0,1740,6,1,382690
+285,Suburbs,Condo,1409,2,1,1958,1,5600,6,-1,323165
+286,Downtown,Townhouse,1521,2,,1987,3,2346,4,1,536598
+287,Suburbs,Condo,957,1,2,1971,1,4035,7,-1,253049
+288,Suburbs,Condo,1182,2,1,1998,1,5301,7,0,304864
+289,Downtown,Single Family,1890,4,2,2017,0,1000,2,0,668664
+290,Suburbs,Condo,1019,2,1,1964,2,,9,0,313413
+291,Downtown,Single Family,2742,6,3,2014,1,2891,6,0,1010317
+292,Downtown,Condo,834,3,1,2003,2,3121,4,0,349541
+293,Countryside,Condo,645,1,1,1979,0,7047,4,1,155935
+294,Downtown,Condo,704,1,1,1969,1,1463,3,1,272539
+295,Downtown,Single Family,1873,2,1,1982,2,2284,6,1,668059
+296,Suburbs,Single Family,1964,1,1,1956,3,4524,3,1,514159
+297,Suburbs,Condo,788,1,1,1957,0,3071,6,1,235029
+298,Downtown,Single Family,1778,3,2,1977,2,1458,3,1,669733
+299,Suburbs,Single Family,2204,,3,1994,1,5280,7,1,663211
+300,Downtown,Single Family,2470,6,3,2022,1,3067,7,0,935925
+301,Downtown,Townhouse,927,1,1,1960,0,3689,6,1,353758
+302,Suburbs,Condo,1355,4,2,1980,1,5124,7,1,396999
+303,Suburbs,Single Family,2353,5,2,1961,1,5566,9,1,744547
+304,Suburbs,Single Family,2509,5,3,2000,1,5960,7,0,742093
+305,Suburbs,Single Family,2002,5,2,1993,0,2949,5,-1,595929
+306,Beachfront,Condo,1156,1,1,1999,0,1000,6,1,471481
+307,Suburbs,Condo,572,1,1,1966,3,,8,1,271654
+308,Downtown,Single Family,2467,5,2,1984,3,3555,3,0,883761
+309,Suburbs,Single Family,2251,4,3,1950,2,5629,5,-1,652263
+310,Downtown,Single Family,2365,5,2,1978,0,2329,6,0,856992
+311,Suburbs,Condo,,1,1,2000,1,4771,7,0,206023
+312,Downtown,Condo,631,1,1,2013,2,2426,7,0,269270
+313,Downtown,Single Family,2379,4,2,1953,3,1403,5,0,858272
+314,Beachfront,Single Family,1915,2,1,1977,1,1220,3,1,860796
+315,Countryside,Single Family,2338,4,2,1965,2,7307,10,0,470120
+316,Suburbs,Townhouse,789,1,1,2012,3,6340,2,0,269611
+317,Suburbs,Single Family,2454,5,3,2002,2,4159,2,1,745856
+318,Downtown,Condo,530,1,1,1966,0,1601,6,0,235715
+319,Downtown,Condo,1065,2,1,1989,0,2471,8,-1,361956
+320,Downtown,Single Family,2387,,3,1962,1,1119,7,0,842759
+321,Suburbs,Single Family,1990,2,2,2001,1,5226,9,0,586655
+322,Suburbs,Single Family,2374,4,2,2007,0,5225,3,1,649649
+323,Suburbs,Condo,978,1,1,1986,0,4375,5,1,247320
+324,Downtown,Condo,738,1,2,2010,2,1741,4,0,299048
+325,Beachfront,Condo,,1,,1983,1,1056,8,-1,349625
+326,Suburbs,Condo,500,1,1,2019,1,6382,6,-1,192347
+327,Suburbs,Single Family,2304,4,2,1966,1,5257,1,1,636048
+328,Suburbs,Townhouse,730,1,1,1969,1,3951,7,1,275014
+329,Suburbs,Condo,928,3,2,2022,2,5126,5,0,308368
+330,Downtown,Single Family,,4,2,2008,0,2171,6,0,766916
+331,Downtown,Townhouse,1403,3,1,2018,2,1000,8,1,549062
+332,Suburbs,Condo,809,1,1,1982,1,,4,1,239008
+333,Downtown,Condo,801,1,1,1966,0,1010,4,-1,254891
+334,Downtown,Condo,1119,1,1,2006,2,4090,4,1,367036
+335,Downtown,Townhouse,1300,2,1,1950,1,2795,5,0,443735
+336,Downtown,Condo,994,2,1,1962,1,1000,3,-1,324946
+337,Countryside,Single Family,2340,6,4,1976,1,7685,7,0,494656
+338,Suburbs,Single Family,1739,3,1,2019,1,5922,4,-1,477064
+339,Suburbs,Townhouse,1427,2,1,2008,1,4762,9,-1,385945
+340,Downtown,Single Family,2383,4,2,1955,2,3178,4,0,833920
+341,Suburbs,Single Family,1894,4,2,1972,0,4623,4,0,551716
+342,Suburbs,Single Family,2126,5,2,1959,3,4921,4,0,662962
+343,Downtown,Single Family,2188,6,3,2000,1,2950,7,0,882796
+344,Suburbs,Condo,859,1,1,1968,0,5603,6,-1,234145
+345,Downtown,Townhouse,1300,1,1,2000,0,1074,8,1,445156
+346,Suburbs,Single Family,2629,5,3,2017,1,5434,7,0,762806
+347,Suburbs,Single Family,2524,6,3,1991,1,5167,9,0,796659
+348,Downtown,Single Family,1806,2,1,2006,0,1088,7,1,626612
+349,Downtown,Townhouse,1386,1,1,2017,0,1000,2,0,406149
+350,Suburbs,Condo,1298,3,2,1987,2,3068,8,0,391034
+351,Suburbs,Single Family,,5,2,2011,0,4705,9,0,677432
+352,Countryside,Townhouse,1527,1,1,1956,2,7945,10,1,297153
+353,Suburbs,Townhouse,1803,3,2,2020,1,5504,3,1,478632
+354,Downtown,Townhouse,1507,2,1,1999,1,2820,7,-1,485667
+355,Downtown,Townhouse,1274,3,1,2001,1,1586,3,0,469052
+356,Suburbs,Single Family,2513,5,1,1975,0,4916,4,-1,659489
+357,Downtown,Condo,943,2,1,1975,2,1241,7,1,392242
+358,Suburbs,Single Family,2207,2,1,1968,0,5087,10,0,583811
+359,Countryside,Townhouse,1094,1,1,1958,1,8968,6,1,215738
+360,Suburbs,Condo,1369,1,1,2010,1,5101,8,0,321139
+361,Downtown,Condo,654,1,1,1969,0,3163,1,0,224533
+362,Suburbs,Condo,1359,2,1,1999,1,5951,1,1,317274
+363,Suburbs,Single Family,2349,5,3,1971,2,6457,6,1,742313
+364,Suburbs,Condo,500,1,1,1962,1,5129,5,-1,180896
+365,Countryside,Townhouse,1310,3,2,1961,3,7467,8,0,300055
+366,Downtown,Townhouse,569,1,1,1959,2,2621,5,0,291984
+367,Beachfront,Single Family,2387,6,3,2014,1,1627,6,0,1221891
+368,Countryside,Single Family,2465,5,2,1979,1,8589,6,0,475709
+369,Downtown,Single Family,2022,5,3,1957,1,1337,4,0,807907
+370,Downtown,Condo,937,1,1,1970,1,1171,9,0,326517
+371,Downtown,Townhouse,1786,1,1,1971,0,3216,6,-1,507194
+372,Downtown,Single Family,2048,5,3,1967,3,1000,6,0,857965
+373,Downtown,Condo,582,1,1,2015,1,3022,8,-1,246853
+374,Suburbs,Townhouse,1644,5,2,1997,1,5586,5,-1,497220
+375,Downtown,Condo,1488,1,1,1993,1,2094,8,1,451231
+376,Downtown,Condo,901,2,1,1958,1,1000,3,-1,293058
+377,Countryside,Condo,1203,4,1,2016,2,9485,3,0,242104
+378,Downtown,Condo,1302,3,1,2003,1,,10,0,450059
+379,Countryside,Single Family,1977,4,,1975,0,8953,8,0,400588
+380,Downtown,Condo,754,1,1,1975,0,1309,5,0,278241
+381,Downtown,Condo,1269,1,1,1983,2,1228,7,0,408000
+382,Suburbs,Townhouse,1705,5,3,1957,1,5668,9,-1,519642
+383,Suburbs,Condo,1068,1,1,1959,3,5538,4,1,310886
+384,Countryside,Condo,,1,1,1997,0,6854,2,1,142179
+385,Suburbs,Single Family,2796,4,,2004,0,6436,6,-1,729519
+386,Countryside,Single Family,2040,3,,2003,0,7793,3,0,360614
+387,Downtown,Single Family,2099,6,3,1989,1,2068,3,0,827644
+388,Downtown,Single Family,2302,4,3,1964,1,1702,8,-1,829169
+389,Suburbs,Condo,1366,4,2,1967,0,3897,1,0,338762
+390,Countryside,Townhouse,1456,2,1,1972,1,8735,8,0,275445
+391,Beachfront,Single Family,2324,3,,2011,1,2289,6,-1,1047514
+392,Suburbs,Single Family,,5,2,1995,0,,6,1,684154
+393,Downtown,Townhouse,1213,2,1,1988,1,2944,7,0,443391
+394,Suburbs,Single Family,2367,5,2,1964,2,5054,6,0,702699
+395,Downtown,Condo,500,1,1,2002,0,2076,3,1,215597
+396,Countryside,Condo,811,1,1,2013,0,9776,3,-1,135216
+397,Countryside,Condo,972,,1,2012,1,6392,7,0,182023
+398,Suburbs,Single Family,1854,6,3,1965,2,3378,4,0,646120
+399,Suburbs,Single Family,2315,5,2,2019,2,3603,1,0,675438
+400,Suburbs,Condo,838,1,1,2015,1,5363,10,0,265085
+401,Downtown,Condo,1426,4,2,1962,0,1640,10,-1,496196
+402,Countryside,Single Family,2671,6,2,1996,2,7720,5,-1,518891
+403,Suburbs,Condo,760,1,1,1958,3,4057,1,-1,215189
+404,Countryside,Single Family,2154,3,1,2012,1,9665,7,1,411573
+405,Downtown,Condo,877,2,1,1983,3,4001,8,-1,349639
+406,Countryside,Single Family,2064,6,2,1978,1,8898,3,-1,414933
+407,Downtown,Townhouse,1258,2,1,1986,2,1000,3,1,447112
+408,Downtown,Single Family,1972,5,2,1992,1,1513,8,0,784346
+409,Countryside,Single Family,1860,,1,2013,1,8827,9,0,376813
+410,Downtown,Single Family,2386,4,2,1973,0,1954,7,-1,805283
+411,Downtown,Single Family,2388,5,3,2020,2,2902,4,0,866955
+412,Beachfront,Townhouse,958,1,1,1983,3,3247,6,-1,497855
+413,Beachfront,Townhouse,1468,3,1,1997,1,,7,0,690263
+414,Suburbs,Single Family,2010,4,,1961,1,4345,3,1,572956
+415,Suburbs,Single Family,2275,4,2,1972,0,5081,4,0,647068
+416,Suburbs,Condo,1146,2,1,1962,0,4559,4,-1,266111
+417,Downtown,Townhouse,1189,2,1,1994,0,1000,6,0,429335
+418,Downtown,Condo,,1,1,2014,1,2701,6,0,335198
+419,Suburbs,Single Family,,3,,1996,3,5563,8,0,623724
+420,Suburbs,Single Family,2141,5,2,2007,0,4453,7,0,637908
+421,Suburbs,Condo,838,1,1,1954,0,3401,9,0,256613
+422,Suburbs,Single Family,1976,3,1,1954,1,4615,8,0,570268
+423,Downtown,Condo,846,1,1,2009,0,2731,4,1,294546
+424,Suburbs,Single Family,1735,2,1,1970,2,6337,5,1,504988
+425,Downtown,Condo,752,1,1,1973,1,1287,6,-1,285559
+426,Suburbs,Single Family,2114,4,1,1967,0,6107,1,1,578601
+427,Suburbs,Condo,823,1,1,1970,0,5622,9,-1,237709
+428,Countryside,Single Family,2127,4,2,2003,0,8413,1,1,401526
+429,Downtown,Condo,881,1,1,1959,1,1000,5,-1,273401
+430,Downtown,Single Family,2343,5,3,1973,0,1000,6,0,866877
+431,Downtown,Condo,1162,4,1,2009,1,1169,6,1,442360
+432,Suburbs,Condo,705,1,1,2006,1,4673,7,-1,228685
+433,Suburbs,Condo,539,2,1,1972,0,6800,6,1,209990
+434,Downtown,Condo,587,1,2,1971,0,1337,4,0,252011
+435,Downtown,Condo,753,,1,2017,1,2771,4,0,293238
+436,Suburbs,Townhouse,1094,2,1,1983,1,4535,9,0,349743
+437,Downtown,Single Family,,3,1,2019,3,,4,1,707698
+438,Countryside,Townhouse,811,2,2,1977,0,7937,4,-1,202739
+439,Suburbs,Single Family,2063,6,2,1988,0,5177,6,0,639845
+440,Downtown,Single Family,2254,5,3,1991,0,2369,3,1,826603
+441,Downtown,Single Family,2378,5,2,1972,1,1750,6,1,869997
+442,Beachfront,Single Family,,4,1,2019,1,2374,7,1,1017276
+443,Downtown,Condo,776,1,1,1951,2,3233,7,0,320977
+444,Downtown,Condo,621,1,1,1973,1,1245,7,1,297604
+445,Countryside,Condo,890,3,1,1966,0,9185,3,1,181153
+446,Countryside,Condo,645,1,1,2014,1,7734,6,1,138132
+447,Beachfront,Single Family,2371,3,3,2019,3,1629,1,-1,1065301
+448,Suburbs,Single Family,1664,,2,2018,1,5699,1,0,510335
+449,Downtown,Single Family,2092,,2,2009,1,1658,6,0,770789
+450,Downtown,Single Family,2290,4,2,1999,3,2319,4,0,843082
+451,Suburbs,Single Family,2255,4,2,1961,2,5225,7,0,650824
+452,Suburbs,Single Family,3007,5,2,1996,2,2916,7,-1,799846
+453,Suburbs,Condo,1004,1,1,2016,0,5417,8,0,261902
+454,Countryside,Condo,,1,1,2014,1,6558,7,-1,137692
+455,Downtown,Townhouse,1171,1,1,1976,0,1000,1,-1,340574
+456,Suburbs,Townhouse,667,1,1,1997,1,5366,5,0,232760
+457,Downtown,Condo,875,1,1,2011,0,2536,4,1,307737
+458,Suburbs,Single Family,1950,4,2,1993,2,6205,5,0,601719
+459,Downtown,Condo,1174,1,2,1968,2,1000,3,-1,351153
+460,Downtown,Condo,735,1,1,2008,1,1258,2,-1,240903
+461,Downtown,Single Family,2164,5,3,1957,0,2464,6,0,829168
+462,Suburbs,Single Family,2009,3,2,2004,0,6224,7,1,571390
+463,Suburbs,Townhouse,1721,4,2,1996,2,5192,7,0,516107
+464,Suburbs,Single Family,2103,5,2,1951,1,4122,6,-1,627563
+465,Beachfront,Condo,1449,2,,1988,2,3506,6,0,599628
+466,Downtown,Condo,1144,3,2,1994,1,1737,6,1,435198
+467,Downtown,Single Family,,3,1,1981,1,1768,7,-1,755827
+468,Countryside,Single Family,2310,6,3,2014,2,6564,1,0,462634
+469,Downtown,Single Family,2318,5,2,1987,1,2724,7,0,873474
+470,Beachfront,Single Family,1621,3,1,1960,1,2852,6,-1,819713
+471,Downtown,Single Family,,4,,1959,2,1294,3,-1,736528
+472,Beachfront,Townhouse,1453,2,1,2008,0,3751,1,0,600431
+473,Downtown,Single Family,2185,6,2,2004,0,1412,3,-1,801956
+474,Countryside,Condo,500,1,1,1969,1,8625,6,-1,142822
+475,Suburbs,Single Family,2184,4,2,1966,0,5223,7,0,621415
+476,Beachfront,Townhouse,1711,5,2,2017,2,1000,5,-1,857982
+477,Downtown,Single Family,2574,5,2,1954,2,2543,5,0,913974
+478,Suburbs,Single Family,2181,5,3,2009,2,5454,9,-1,705814
+479,Beachfront,Townhouse,1485,4,2,1972,1,1000,4,0,766112
+480,Suburbs,Townhouse,1090,,1,1995,0,6525,3,1,297130
+481,Suburbs,Single Family,1688,4,2,2001,0,5458,5,0,514611
+482,Suburbs,Townhouse,922,1,1,1959,2,6239,7,0,315138
+483,Suburbs,Single Family,2668,6,2,1995,0,3283,7,-1,755654
+484,Suburbs,Single Family,2117,5,,1977,1,4589,6,0,666780
+485,Suburbs,Single Family,2126,5,3,1992,2,,10,-1,704832
+486,Countryside,Single Family,2110,4,2,1975,1,6431,7,-1,397624
+487,Downtown,Condo,1471,,1,2004,1,1618,2,0,383839
+488,Downtown,Single Family,2687,6,4,1997,1,2406,7,1,1037942
+489,Beachfront,Single Family,2865,4,1,1978,2,1000,1,0,1192616
+490,Countryside,Condo,852,,1,1976,0,6678,7,-1,148840
+491,Suburbs,Condo,988,2,1,1967,3,6382,4,1,313747
+492,Suburbs,Single Family,1745,4,1,2009,1,5059,7,-1,534329
+493,Downtown,Condo,,4,1,2018,3,3176,5,1,482212
+494,Downtown,Single Family,1849,5,1,1970,0,2182,8,0,728080
+495,Suburbs,Condo,965,1,,1973,0,7455,5,0,257390
+496,Downtown,Condo,,1,1,1952,2,2438,7,0,272715
+497,Suburbs,Townhouse,1023,1,2,2011,2,6269,4,1,336717
+498,Downtown,Single Family,1948,2,1,1951,1,1753,9,1,687830
+499,Beachfront,Single Family,2017,,2,2015,2,2210,7,0,1037598
+500,Beachfront,Single Family,2038,4,2,1991,2,,4,0,995233
+501,Suburbs,Single Family,2035,2,1,1983,0,5807,9,0,552297
+502,Suburbs,Single Family,2450,6,3,1991,1,4961,5,0,744601
+503,Downtown,Townhouse,868,1,1,1969,2,2002,7,1,365098
+504,Countryside,Single Family,2266,3,1,2017,1,8501,7,-1,415208
+505,Suburbs,Single Family,2565,6,2,1994,1,5501,1,0,725711
+506,Downtown,Condo,746,1,1,1991,2,1000,10,1,325074
+507,Countryside,Single Family,1984,4,1,1996,1,8224,5,1,396561
+508,Countryside,Condo,830,1,1,1954,0,8320,3,-1,127156
+509,Countryside,Single Family,2553,6,3,1998,3,7023,8,-1,517539
+510,Suburbs,Single Family,2258,5,2,1986,1,5905,7,1,678208
+511,Suburbs,Single Family,2040,5,3,1983,2,5412,2,0,626919
+512,Suburbs,Single Family,2345,4,3,2022,2,7330,3,0,678376
+513,Countryside,Townhouse,869,2,1,2019,0,7973,7,-1,187945
+514,Countryside,Single Family,2404,6,2,1967,0,9136,2,1,471482
+515,Downtown,Condo,1022,1,1,1968,1,2539,9,-1,311804
+516,Downtown,Single Family,2107,6,3,1989,1,3921,7,-1,845085
+517,Downtown,Single Family,1948,3,1,1966,1,1030,5,-1,659226
+518,Countryside,Townhouse,933,2,1,2009,1,7504,5,1,209526
+519,Beachfront,Single Family,2360,4,2,1991,1,1064,6,1,1128267
+520,Downtown,Condo,1268,3,1,2021,0,1922,5,1,422280
+521,Suburbs,Townhouse,1008,1,1,2014,1,3875,7,0,304888
+522,Downtown,Condo,1037,1,1,2002,1,1000,10,1,368413
+523,Beachfront,Townhouse,573,1,1,1956,1,1000,6,1,394005
+524,Countryside,Single Family,2024,5,2,1954,0,5802,6,1,418472
+525,Countryside,Single Family,2190,5,3,1973,1,8656,4,1,456046
+526,Suburbs,Single Family,1927,4,2,1977,0,4544,7,0,581850
+527,Suburbs,Condo,619,1,,2011,1,3766,7,0,206149
+528,Downtown,Townhouse,999,4,2,1966,2,1340,7,1,497619
+529,Downtown,Single Family,2287,5,2,1969,0,1472,1,1,812098
+530,Countryside,Condo,843,1,1,1952,1,7035,8,0,174573
+531,Countryside,Single Family,1528,3,1,1986,1,9605,5,-1,313710
+532,Beachfront,Condo,500,1,1,1964,0,,7,0,307091
+533,Beachfront,Single Family,2017,4,2,2000,0,3588,7,0,976224
+534,Suburbs,Townhouse,1337,3,1,1997,3,5179,7,-1,414816
+535,Suburbs,Condo,500,1,1,1957,1,5280,5,1,189844
+536,Countryside,Single Family,2050,4,3,1962,3,7347,7,0,436967
+537,Countryside,Single Family,2042,4,2,1997,1,7152,1,0,386482
+538,Downtown,Single Family,2616,4,2,1952,1,2021,7,0,901536
+539,Suburbs,Single Family,2084,5,1,2014,1,5652,2,0,605931
+540,Downtown,Single Family,2314,5,2,2022,1,3195,5,-1,839696
+541,Beachfront,Townhouse,1242,3,1,1980,0,1454,3,0,600193
+542,Suburbs,Condo,500,1,1,1975,1,3747,8,-1,193040
+543,Downtown,Condo,1130,2,1,2005,1,2733,6,-1,348114
+544,Suburbs,Single Family,,4,1,1983,0,3181,7,-1,605905
+545,Suburbs,Townhouse,1352,3,2,1958,0,4960,7,-1,411081
+546,Downtown,Condo,2077,3,2,2011,0,2089,8,0,591487
+547,Downtown,Single Family,1574,2,1,1962,1,1621,3,0,570783
+548,Suburbs,Condo,1417,2,2,2018,1,3454,7,1,368211
+549,Suburbs,Condo,813,3,2,1990,2,4634,6,0,322128
+550,Suburbs,Single Family,2286,5,3,1950,0,6642,1,1,662985
+551,Suburbs,Single Family,2186,5,2,1996,0,5591,4,0,628803
+552,Countryside,Single Family,2072,6,2,1953,1,9161,4,1,433884
+553,Suburbs,Single Family,2029,4,2,2012,2,3782,2,0,599598
+554,Suburbs,Townhouse,1298,3,2,2001,0,5255,5,0,373870
+555,Countryside,Townhouse,744,1,1,1959,1,8088,1,-1,139503
+556,Suburbs,Condo,1125,2,1,1977,1,5107,6,0,300475
+557,Downtown,Single Family,2075,4,2,1955,0,2555,4,0,714422
+558,Downtown,Single Family,1860,3,1,1976,1,,4,0,650026
+559,Suburbs,Condo,764,1,,1961,0,3810,9,1,261204
+560,Suburbs,Condo,1277,3,1,2011,2,5613,6,-1,346319
+561,Suburbs,Single Family,2039,4,2,2001,1,5840,4,-1,576420
+562,Downtown,Condo,1007,1,,1997,1,3319,6,0,326222
+563,Downtown,Townhouse,980,1,1,2016,1,3363,4,1,370371
+564,Downtown,Single Family,2427,3,2,1995,1,2476,2,0,780893
+565,Downtown,Single Family,2405,6,3,1964,1,1000,1,0,890685
+566,Suburbs,Condo,1454,3,1,2020,0,3470,10,-1,362611
+567,Downtown,Single Family,2147,5,3,1985,1,,7,0,832758
+568,Suburbs,Single Family,2400,4,1,1963,0,5919,7,1,671807
+569,Countryside,Single Family,2229,4,2,1952,1,8855,10,1,458090
+570,Downtown,Single Family,2588,3,1,2016,0,2273,9,-1,803116
+571,Suburbs,Condo,684,2,2,1968,1,4963,7,0,253632
+572,Suburbs,Condo,1123,1,1,2003,0,6903,7,0,287429
+573,Downtown,Single Family,2141,6,3,2018,3,2574,5,-1,870339
+574,Suburbs,Townhouse,1180,2,1,1959,1,4912,3,0,326195
+575,Countryside,Townhouse,1227,2,1,1982,1,7354,6,0,234475
+576,Countryside,Townhouse,1275,1,1,1962,3,6991,6,-1,236109
+577,Downtown,Single Family,,5,3,2000,1,1000,10,1,883204
+578,Countryside,Single Family,2264,4,2,1981,3,6991,6,-1,439174
+579,Suburbs,Townhouse,1673,4,3,1973,0,5280,7,1,507501
+580,Downtown,Condo,1195,1,1,1984,1,1981,6,1,367264
+581,Suburbs,Single Family,2460,4,2,2019,1,4674,3,1,666749
+582,Beachfront,Single Family,2063,2,1,1989,2,2736,6,-1,898101
+583,Suburbs,Single Family,1933,4,2,2003,0,6809,6,1,588914
+584,Downtown,Townhouse,1486,2,1,1993,3,1176,6,1,542827
+585,Suburbs,Condo,1162,1,1,2011,1,4325,6,-1,268587
+586,Downtown,Single Family,2641,6,3,2017,2,1000,3,0,953999
+587,Downtown,Single Family,2018,6,,1982,1,1973,6,-1,835287
+588,Downtown,Condo,831,1,1,2005,0,1872,7,1,320024
+589,Downtown,Townhouse,708,1,1,1985,3,2892,6,1,349869
+590,Downtown,Single Family,2082,5,4,2003,3,1913,6,1,885860
+591,Downtown,Condo,1198,1,1,1968,1,1411,2,1,346023
+592,Suburbs,Townhouse,1060,2,1,1992,0,5192,3,0,306717
+593,Downtown,Single Family,2392,5,3,1961,0,2557,5,-1,851767
+594,Downtown,Condo,842,2,1,1960,1,1000,6,-1,306734
+595,Countryside,Single Family,2297,3,2,2019,0,,6,-1,393691
+596,Suburbs,Condo,555,1,1,1961,1,6306,8,0,213778
+597,Suburbs,Condo,925,1,1,1990,1,5547,3,1,250639
+598,Downtown,Condo,500,1,1,1974,2,1065,1,1,221618
+599,Downtown,Condo,843,2,1,1952,0,1673,6,-1,314273
+600,Downtown,Single Family,1710,5,2,1952,1,3182,6,0,708582
+601,Downtown,Townhouse,1561,2,1,1977,1,1021,6,0,489753
+602,Downtown,Condo,1133,1,1,1972,1,2628,8,0,381286
+603,Downtown,Single Family,2340,6,3,1997,1,1949,8,0,922975
+604,Downtown,Condo,1356,3,2,2016,1,2160,3,0,446344
+605,Downtown,Condo,615,2,1,1991,1,1164,9,1,331722
+606,Suburbs,Single Family,2724,6,3,1989,2,5330,3,1,791974
+607,Downtown,Townhouse,1479,1,1,1955,1,2259,7,1,492793
+608,Downtown,Townhouse,1129,,1,1969,3,1000,7,-1,429753
+609,Suburbs,Single Family,2540,4,2,1960,2,4995,7,-1,693655
+610,Suburbs,Townhouse,868,2,2,1976,2,,4,0,327606
+611,Downtown,Single Family,1952,5,2,1970,0,1614,5,1,747909
+612,Suburbs,Single Family,2017,6,4,1962,1,2552,6,1,698047
+613,Suburbs,Single Family,2041,5,3,1984,1,4885,3,0,620247
+614,Downtown,Townhouse,883,3,1,1996,0,3466,1,1,374958
+615,Countryside,Condo,1266,2,2,1977,1,7655,6,0,214347
+616,Countryside,Single Family,2122,3,2,1970,0,9428,6,-1,376827
+617,Downtown,Single Family,2305,5,3,1967,1,,7,1,885211
+618,Downtown,Condo,728,1,1,1980,1,1000,3,1,262981
+619,Countryside,Single Family,1653,4,2,2009,1,7994,8,-1,350331
+620,Suburbs,Townhouse,,3,1,1986,3,4177,3,0,390547
+621,Downtown,Townhouse,626,,1,1970,1,2329,8,0,307998
+622,Downtown,Condo,879,3,2,1963,1,1627,6,-1,359836
+623,Downtown,Townhouse,789,2,1,2009,1,3473,6,1,362335
+624,Suburbs,Single Family,2796,6,2,1972,2,4558,8,0,811440
+625,Suburbs,Townhouse,1473,3,2,1978,1,5089,4,-1,395145
+626,Downtown,Condo,931,2,1,1996,1,2596,3,-1,305011
+627,Suburbs,Condo,,2,2,1979,0,5956,6,1,335783
+628,Suburbs,Single Family,1946,4,2,1987,1,6479,4,1,592943
+629,Downtown,Townhouse,1363,1,1,1976,0,1765,6,1,446722
+630,Downtown,Single Family,2259,6,3,1964,2,,4,-1,863721
+631,Suburbs,Single Family,2279,3,1,2008,2,3086,8,1,648277
+632,Countryside,Single Family,2581,6,4,1952,2,10041,7,0,539222
+633,Suburbs,Condo,1119,1,1,1959,2,5360,1,0,281401
+634,Suburbs,Condo,986,2,1,1966,1,5751,8,1,285056
+635,Downtown,Condo,500,1,1,1960,2,2555,5,-1,232636
+636,Suburbs,Townhouse,911,1,1,1997,1,,5,0,287313
+637,Suburbs,Single Family,2163,5,2,1954,1,5350,5,-1,632036
+638,Downtown,Condo,928,1,1,2018,0,1440,7,0,301866
+639,Downtown,Single Family,1860,4,2,2013,0,1697,6,-1,679840
+640,Downtown,Townhouse,1923,4,2,1963,1,1049,7,1,687847
+641,Downtown,Townhouse,1654,4,2,1999,1,3557,3,0,569520
+642,Downtown,Condo,1080,1,1,1975,0,2561,10,0,352668
+643,Downtown,Condo,921,1,1,2021,2,3976,7,1,337240
+644,Downtown,Single Family,2136,4,2,2018,0,4296,4,1,757991
+645,Downtown,Single Family,1914,4,2,1956,0,1000,7,0,727416
+646,Countryside,Townhouse,1223,4,2,1965,2,8985,6,0,279048
+647,Suburbs,Single Family,2277,4,3,2004,1,3642,3,-1,640330
+648,Suburbs,Single Family,1827,5,2,2005,2,5177,3,-1,562580
+649,Suburbs,Single Family,2300,2,,1953,1,5314,1,0,566298
+650,Suburbs,Townhouse,1153,1,1,1997,3,3712,8,-1,345126
+651,Downtown,Single Family,1627,3,1,1966,1,1262,6,0,626380
+652,Suburbs,Single Family,1941,2,1,1985,0,5360,5,-1,488931
+653,Suburbs,Condo,775,1,1,2019,1,5176,3,0,221495
+654,Suburbs,Townhouse,1766,4,2,1987,0,3981,6,0,498833
+655,Suburbs,Single Family,2366,4,2,2011,3,4301,6,-1,682298
+656,Downtown,Single Family,1799,4,2,1997,0,1000,7,-1,698977
+657,Downtown,Single Family,2345,5,2,1959,1,1000,10,0,871368
+658,Downtown,Single Family,1735,4,1,1985,0,1628,6,0,654746
+659,Suburbs,Single Family,2524,6,,1978,2,5987,6,0,785942
+660,Suburbs,Condo,758,1,1,1953,1,6114,5,1,229224
+661,Downtown,Condo,871,1,1,1993,3,3833,8,-1,345935
+662,Beachfront,Condo,1297,4,2,2005,0,2424,3,-1,568798
+663,Suburbs,Single Family,1813,3,2,1991,0,5188,5,-1,520528
+664,Downtown,Townhouse,780,1,1,1962,0,2495,7,0,309460
+665,Downtown,Single Family,2024,4,2,1995,2,2485,1,1,758195
+666,Downtown,Townhouse,,2,1,1982,2,1000,4,-1,487776
+667,Downtown,Condo,500,1,2,1970,0,3888,7,0,249173
+668,Downtown,Single Family,1350,3,2,2006,0,1000,3,0,520633
+669,Downtown,Condo,764,1,1,2018,2,3148,5,1,303194
+670,Downtown,Single Family,2365,4,2,2019,0,2056,6,1,825133
+671,Downtown,Condo,1260,2,1,2016,0,1000,6,0,406476
+672,Countryside,Single Family,2061,6,3,1997,0,8531,3,0,431516
+673,Downtown,Single Family,,,4,1982,0,1881,9,1,859036
+674,Suburbs,Townhouse,1546,5,2,1985,0,4317,1,1,454612
+675,Suburbs,Single Family,1639,5,2,1982,0,3618,7,0,539402
+676,Beachfront,Townhouse,1083,3,2,1980,1,1000,2,0,595222
+677,Downtown,Single Family,2257,3,2,1970,2,,6,0,805562
+678,Downtown,Condo,1034,2,1,1976,1,1613,3,0,341331
+679,Beachfront,Condo,747,1,,2021,2,1000,3,0,392793
+680,Countryside,Condo,910,1,1,2011,0,8038,3,-1,144869
+681,Countryside,Single Family,1453,3,1,1975,1,6931,6,1,324964
+682,Downtown,Single Family,2002,5,2,2015,1,2360,6,0,785661
+683,Downtown,Single Family,2336,5,3,1961,2,3231,3,1,880256
+684,Suburbs,Single Family,1905,3,1,1971,0,5289,10,0,554823
+685,Countryside,Condo,917,2,1,1966,2,7906,4,1,190727
+686,Suburbs,Townhouse,1334,2,1,1956,0,4465,6,0,348958
+687,Suburbs,Townhouse,1097,2,1,2017,1,6446,4,0,326879
+688,Downtown,Condo,951,1,1,1986,3,1806,6,0,356409
+689,Suburbs,Condo,611,1,1,1987,1,7490,7,0,206085
+690,Downtown,Condo,838,2,1,1960,1,1000,6,1,334896
+691,Downtown,Single Family,2383,3,2,1950,3,2289,4,-1,794904
+692,Suburbs,Townhouse,1247,4,3,1974,1,6412,4,0,418173
+693,Suburbs,Condo,724,1,2,1991,0,4309,7,-1,219948
+694,Downtown,Condo,967,1,1,2001,3,1763,3,1,357781
+695,Downtown,Single Family,2414,6,3,1973,0,,5,-1,884829
+696,Suburbs,Single Family,1585,3,1,2002,2,5387,3,0,471697
+697,Downtown,Single Family,2547,5,3,2005,0,2559,4,-1,880061
+698,Suburbs,Townhouse,1099,1,1,2012,2,6160,3,0,290924
+699,Downtown,Condo,1027,2,1,1957,1,1653,8,1,359413
+700,Suburbs,Single Family,2559,5,2,2008,3,6437,7,-1,729179
+701,Suburbs,Townhouse,788,2,2,1994,1,3279,6,0,303241
+702,Downtown,Single Family,1987,4,3,1976,0,3077,4,-1,724974
+703,Downtown,Single Family,2113,5,,2001,1,3147,6,0,813691
+704,Downtown,Single Family,1964,3,2,1967,0,1225,6,0,681797
+705,Downtown,Condo,1420,2,1,1965,2,1000,6,0,439960
+706,Beachfront,Townhouse,942,1,1,2015,2,1767,2,0,445082
+707,Downtown,Single Family,2033,3,2,1954,1,,10,0,759673
+708,Countryside,Townhouse,1261,3,2,1952,2,7664,6,-1,252222
+709,Downtown,Single Family,1839,3,,2019,0,2501,9,0,711567
+710,Suburbs,Townhouse,,2,1,1956,1,6937,1,-1,296063
+711,Suburbs,Condo,995,1,1,1999,1,3635,4,1,259089
+712,Suburbs,Townhouse,1100,3,,1963,1,3045,3,1,344381
+713,Suburbs,Single Family,2171,4,2,1987,0,4930,7,-1,629623
+714,Suburbs,Townhouse,1041,2,2,1996,2,4319,5,-1,331027
+715,Downtown,Condo,500,1,1,1982,0,1519,8,-1,211905
+716,Countryside,Single Family,2296,,2,1992,1,9266,8,1,459611
+717,Countryside,Townhouse,1726,4,2,1978,0,7879,7,1,341985
+718,Beachfront,Single Family,2205,3,2,2006,2,1971,7,0,1048979
+719,Downtown,Townhouse,1267,4,2,1954,0,1563,7,0,535362
+720,Suburbs,Single Family,2407,6,3,2009,1,4961,7,-1,725594
+721,Countryside,Condo,519,1,1,2019,0,8268,5,0,121756
+722,Downtown,Condo,1410,2,1,1951,2,4784,7,1,463108
+723,Downtown,Single Family,2260,5,,2019,1,2279,8,0,891139
+724,Suburbs,Single Family,2689,5,3,1992,2,6162,5,1,764567
+725,Suburbs,Single Family,1980,3,2,1953,0,5186,9,0,600918
+726,Countryside,Single Family,2745,5,2,2005,2,5972,1,-1,496738
+727,Downtown,Single Family,2432,4,1,2008,0,1432,5,0,806494
+728,Suburbs,Condo,1065,3,1,1958,0,5278,3,0,280004
+729,Downtown,Single Family,2270,4,1,1952,1,2723,3,1,772164
+730,Downtown,Single Family,2125,5,3,1997,0,2210,8,0,833878
+731,Downtown,Condo,1260,3,2,1992,0,2920,9,0,453937
+732,Countryside,Single Family,2242,4,,1950,3,6540,7,0,452648
+733,Suburbs,Townhouse,609,1,1,2006,3,5048,10,0,278597
+734,Suburbs,Townhouse,864,2,1,2002,2,6327,4,0,301319
+735,Downtown,Condo,844,1,1,1965,0,1028,3,1,262144
+736,Countryside,Condo,992,3,1,2000,0,9120,6,0,191339
+737,Downtown,Townhouse,1183,,1,2004,1,3068,8,-1,448168
+738,Countryside,Single Family,2565,6,2,1950,0,6762,1,1,479595
+739,Suburbs,Single Family,1614,3,2,1977,3,5337,10,-1,556064
+740,Downtown,Single Family,2243,3,1,2002,0,2158,7,-1,720914
+741,Suburbs,Condo,500,1,1,2007,3,4823,10,0,222908
+742,Downtown,Single Family,2427,6,3,2022,1,1000,5,-1,897505
+743,Suburbs,Condo,871,,1,2009,2,4736,6,1,276841
+744,Suburbs,Townhouse,1325,1,1,2008,0,4843,7,0,349540
+745,Downtown,Townhouse,940,1,1,1971,2,1000,7,0,386871
+746,Countryside,Condo,1283,3,2,1957,0,6694,4,-1,233692
+747,Downtown,Single Family,2512,5,2,1998,1,1073,9,-1,892949
+748,Suburbs,Townhouse,1375,4,2,1991,2,3951,8,0,466839
+749,Countryside,Condo,861,2,1,1976,0,,1,0,161503
+750,Suburbs,Single Family,2373,6,3,1988,1,5911,3,1,743532
+751,Downtown,Single Family,1987,3,1,1974,1,,6,-1,670696
+752,Countryside,Townhouse,1456,3,2,1987,1,8766,6,0,266965
+753,Suburbs,Condo,1394,4,1,1973,1,5952,7,-1,371227
+754,Downtown,Townhouse,1521,4,2,1973,1,1914,2,0,579086
+755,Downtown,Townhouse,981,1,1,2009,1,2408,7,0,363048
+756,Suburbs,Condo,1008,1,1,1999,1,4776,7,-1,264869
+757,Suburbs,Condo,512,1,2,2015,1,3877,4,0,176835
+758,Suburbs,Single Family,2371,5,2,1963,0,4253,6,-1,685148
+759,Countryside,Single Family,2335,5,3,2002,2,8326,4,0,449218
+760,Suburbs,Single Family,1639,3,1,1981,2,4878,3,0,463089
+761,Downtown,Condo,551,1,1,1997,1,2737,6,-1,237988
+762,Downtown,Condo,,,1,1988,1,1000,10,1,334183
+763,Downtown,Townhouse,1109,3,2,1989,1,1000,4,0,468192
+764,Suburbs,Single Family,1837,3,1,1991,2,3471,5,1,555494
+765,Downtown,Condo,1016,2,1,1957,1,2166,4,-1,312995
+766,Suburbs,Condo,975,1,1,1975,0,3621,4,1,249482
+767,Suburbs,Condo,,3,2,1961,1,5320,6,-1,277030
+768,Countryside,Condo,673,1,1,1992,0,8753,7,0,127650
+769,Downtown,Single Family,2514,5,3,2000,0,3516,1,1,885336
+770,Countryside,Condo,1396,2,1,2012,1,9405,10,-1,243429
+771,Downtown,Single Family,2054,4,2,1998,1,1304,1,-1,701948
+772,Countryside,Single Family,2016,6,3,1976,1,6330,8,1,458672
+773,Downtown,Single Family,2347,4,2,1958,1,1368,8,0,840339
+774,Downtown,Condo,792,1,1,1988,3,2976,6,0,310390
+775,Suburbs,Townhouse,1158,2,2,2014,1,,3,-1,328727
+776,Downtown,Condo,,3,1,2020,1,1975,6,0,393383
+777,Downtown,Condo,500,1,1,2020,0,1442,7,-1,223246
+778,Suburbs,Condo,1295,2,2,1956,0,6581,8,1,344136
+779,Suburbs,Condo,921,3,1,2021,1,3985,6,0,295270
+780,Suburbs,Single Family,2076,5,2,2016,1,5066,6,1,644099
+781,Suburbs,Single Family,2173,3,2,1959,2,6108,8,-1,625467
+782,Suburbs,Single Family,2188,4,2,2020,1,6841,10,1,663884
+783,Downtown,Single Family,1680,4,3,2002,1,1305,7,0,714057
+784,Downtown,Single Family,2648,6,3,2006,0,2960,8,1,984515
+785,Downtown,Single Family,2212,4,,1976,0,1367,6,-1,776853
+786,Countryside,Single Family,2332,2,1,2003,3,9377,7,1,406220
+787,Suburbs,Townhouse,1485,3,2,1953,1,6729,7,0,439942
+788,Suburbs,Single Family,1893,2,1,1972,0,4110,7,-1,491329
+789,Suburbs,Single Family,2342,,1,1997,2,5653,5,0,601539
+790,Countryside,Single Family,2119,2,1,1991,2,9113,6,-1,358141
+791,Downtown,Condo,1154,2,1,1952,1,1705,6,0,380055
+792,Suburbs,Single Family,1561,3,1,1952,0,5547,5,0,449907
+793,Suburbs,Single Family,2170,4,2,1977,1,5600,5,0,622619
+794,Suburbs,Condo,719,2,1,2012,0,7009,7,0,234689
+795,Downtown,Single Family,2329,5,3,1980,2,1000,6,0,895299
+796,Countryside,Single Family,2341,6,3,1959,1,7944,3,-1,465658
+797,Countryside,Single Family,1987,2,1,1998,1,6749,8,1,388783
+798,Suburbs,Single Family,1986,3,1,1970,1,5013,8,1,573901
+799,Suburbs,Single Family,2166,3,,2002,0,4217,6,0,574674
+800,Countryside,Single Family,1931,3,2,2003,0,7745,4,-1,383843
+801,Suburbs,Townhouse,1452,2,2,2006,3,4125,9,0,443765
+802,Downtown,Condo,789,,1,1969,0,2155,8,1,313532
+803,Suburbs,Condo,500,1,,1998,0,6073,4,0,178765
+804,Suburbs,Single Family,2087,,2,1956,3,4627,2,0,663347
+805,Suburbs,Townhouse,888,2,1,1978,1,6430,6,-1,275694
+806,Suburbs,Single Family,1710,6,3,1997,2,6043,7,1,628555
+807,Countryside,Single Family,1828,3,1,1962,0,,3,0,319822
+808,Countryside,Condo,932,1,1,1952,1,8411,6,-1,164727
+809,Suburbs,Single Family,2598,6,3,1951,1,4938,6,-1,751966
+810,Downtown,Single Family,2293,4,1,1965,2,1000,8,0,801666
+811,Beachfront,Condo,718,2,1,1955,0,1218,6,0,378757
+812,Countryside,Townhouse,1336,2,1,1994,1,7792,6,0,252685
+813,Downtown,Single Family,2062,4,1,2020,2,1910,10,1,791965
+814,Countryside,Condo,691,1,1,1954,1,,4,-1,145424
+815,Countryside,Townhouse,853,2,2,2005,1,7793,4,1,195747
+816,Suburbs,Single Family,1674,3,1,2020,0,3231,7,0,493141
+817,Suburbs,Single Family,2083,4,3,1981,0,5664,4,0,605091
+818,Downtown,Single Family,2247,6,3,1998,1,2606,8,1,919884
+819,Downtown,Single Family,2171,4,2,1962,1,1541,2,0,760888
+820,Downtown,Single Family,2075,5,3,1979,3,4127,3,0,842851
+821,Countryside,Townhouse,916,2,,1974,2,6103,9,1,235898
+822,Downtown,Condo,1082,1,1,2009,1,3249,6,0,340793
+823,Downtown,Condo,504,1,1,2008,2,1708,7,0,265128
+824,Downtown,Single Family,2432,4,1,1977,0,1049,4,1,817502
+825,Suburbs,Townhouse,899,2,1,2007,1,,3,0,306449
+826,Countryside,Townhouse,974,,1,1969,0,8736,8,0,193429
+827,Downtown,Townhouse,759,1,1,1983,0,1701,5,1,315171
+828,Downtown,Single Family,2049,6,2,1954,2,1681,6,0,849122
+829,Suburbs,Condo,1192,2,2,2009,1,5275,1,-1,272015
+830,Suburbs,Single Family,2354,5,3,1992,1,4538,5,1,709954
+831,Downtown,Single Family,2493,5,3,2006,1,3299,7,-1,912943
+832,Suburbs,Single Family,2356,4,,2006,1,5087,8,1,698472
+833,Downtown,Condo,568,2,1,2003,0,3017,7,1,259907
+834,Downtown,Condo,800,1,1,1994,1,2207,7,0,286618
+835,Suburbs,Single Family,1965,2,1,1986,1,5869,6,-1,491074
+836,Suburbs,Single Family,2599,6,3,1997,2,6345,6,-1,782729
+837,Countryside,Single Family,1840,,2,2003,0,9680,7,0,363044
+838,Downtown,Single Family,2468,5,3,1997,0,2490,4,1,907190
+839,Suburbs,Single Family,2467,4,2,1955,1,4133,4,0,672291
+840,Suburbs,Single Family,2748,5,3,1983,2,4827,9,-1,817409
+841,Downtown,Condo,777,1,1,2012,1,1973,1,0,250570
+842,Suburbs,Single Family,2413,6,,1997,2,4426,3,1,724329
+843,Downtown,Single Family,2884,6,3,1972,3,1259,6,0,1065128
+844,Beachfront,Single Family,2014,5,3,1962,3,2174,7,1,1136873
+845,Downtown,Townhouse,739,1,1,1996,2,1016,6,0,336171
+846,Suburbs,Condo,500,1,1,1993,2,3822,5,1,204894
+847,Downtown,Condo,1113,2,1,1981,0,1000,10,0,384311
+848,Beachfront,Single Family,1635,5,2,1975,2,2480,7,-1,938748
+849,Suburbs,Condo,788,1,1,2002,1,5341,8,1,260054
+850,Suburbs,Single Family,2331,4,2,1963,3,4675,1,0,650572
+851,Downtown,Condo,955,1,,2001,0,2994,4,-1,274801
+852,Suburbs,Townhouse,1327,1,1,1985,1,4001,5,1,355671
+853,Downtown,Condo,966,2,2,1957,1,2380,3,0,341661
+854,Countryside,Townhouse,1583,3,2,1989,1,8054,2,-1,269008
+855,Downtown,Condo,614,1,1,1971,0,1259,4,0,219691
+856,Downtown,Single Family,1996,3,2,1965,1,1507,6,1,743311
+857,Downtown,Townhouse,968,3,1,2009,2,1430,7,0,445624
+858,Suburbs,Single Family,2449,5,3,2009,1,5252,7,-1,731074
+859,Suburbs,Condo,1170,2,,1959,0,5593,1,0,274027
+860,Downtown,Single Family,2335,4,2,1974,2,1573,6,0,850785
+861,Suburbs,Single Family,2555,5,3,1980,0,4287,3,1,714564
+862,Suburbs,Single Family,1846,,2,1970,0,5137,6,-1,528919
+863,Suburbs,Single Family,2700,6,3,1982,1,3348,6,0,784484
+864,Suburbs,Single Family,2656,6,2,1980,2,5034,6,-1,763941
+865,Suburbs,Condo,1120,2,1,1970,1,6561,8,0,313604
+866,Suburbs,Single Family,2734,5,2,1985,1,4296,8,1,792808
+867,Downtown,Single Family,1703,6,3,2014,1,1823,7,-1,761220
+868,Downtown,Condo,742,2,1,1953,1,3024,8,0,342573
+869,Countryside,Single Family,1979,4,2,2017,0,8754,7,0,394198
+870,Countryside,Condo,1116,2,2,1953,3,8061,8,1,236007
+871,Downtown,Condo,584,2,2,1958,2,1941,6,0,312382
+872,Downtown,Townhouse,1427,3,1,1979,1,,6,0,515789
+873,Suburbs,Condo,1311,3,1,1994,1,5491,7,1,365645
+874,Suburbs,Single Family,2408,5,3,1953,2,3656,1,1,696678
+875,Downtown,Condo,985,1,1,2018,1,1000,7,1,353521
+876,Downtown,Single Family,1903,1,1,1972,0,3008,9,0,648056
+877,Suburbs,Single Family,1945,4,1,1965,0,5386,7,1,569171
+878,Suburbs,Condo,1274,2,1,1971,1,5879,1,-1,288588
+879,Downtown,Single Family,2433,6,3,2021,3,1263,5,-1,923273
+880,Downtown,Condo,888,2,1,1997,0,2466,8,0,341519
+881,Downtown,Townhouse,1074,,1,2011,0,1560,10,0,407509
+882,Suburbs,Townhouse,592,1,1,2009,1,4672,5,1,220960
+883,Downtown,Townhouse,878,1,1,1954,2,2973,8,-1,346876
+884,Downtown,Single Family,2773,,2,1956,0,1850,8,1,978184
+885,Suburbs,Single Family,1815,4,2,2000,0,4303,3,1,564703
+886,Downtown,Condo,956,2,1,2014,1,1000,8,0,349613
+887,Suburbs,Single Family,2502,5,2,1958,1,5360,5,1,718658
+888,Downtown,Condo,523,1,1,1994,0,3059,6,-1,216334
+889,Downtown,Condo,955,1,1,1996,0,1216,6,-1,307884
+890,Downtown,Condo,1181,2,1,2016,1,2688,7,1,411602
+891,Suburbs,Single Family,2203,5,2,1973,1,4057,7,0,673068
+892,Countryside,Single Family,3060,6,3,1959,3,8749,6,-1,570880
+893,Countryside,Single Family,1699,4,3,2022,1,8032,8,0,390812
+894,Downtown,Single Family,2517,6,3,1997,0,2267,8,1,973284
+895,Suburbs,Townhouse,1148,3,1,1984,1,4302,7,0,376516
+896,Downtown,Single Family,2431,5,3,2003,1,2357,6,0,886110
+897,Downtown,Single Family,2332,5,,2020,0,1402,1,0,813703
+898,Countryside,Single Family,1980,2,,1965,3,7586,6,1,395371
+899,Downtown,Condo,968,1,1,2002,2,1000,8,-1,355439
+900,Downtown,Condo,500,1,1,1989,0,1227,3,-1,197301
+901,Downtown,Single Family,2380,6,3,1969,0,1474,10,0,932288
+902,Downtown,Single Family,2289,4,,2018,0,2312,8,0,816574
+903,Downtown,Single Family,2391,4,3,1994,0,2595,7,0,858790
+904,Suburbs,Single Family,2517,5,3,1955,1,4392,7,-1,714575
+905,Suburbs,Condo,1010,1,,2018,1,4835,6,-1,258304
+906,Countryside,Condo,944,2,1,1998,3,9686,7,-1,182693
+907,Countryside,Single Family,1935,2,2,1988,0,8131,6,-1,343798
+908,Downtown,Single Family,1986,5,2,1951,1,1463,8,0,783162
+909,Downtown,Townhouse,1556,2,1,1988,2,1000,7,0,524518
+910,Downtown,Single Family,2630,6,3,1970,1,1146,7,0,983815
+911,Suburbs,Condo,828,1,1,1989,0,4107,7,0,227827
+912,Downtown,Single Family,2213,5,3,2003,0,,2,-1,779012
+913,Suburbs,Single Family,1928,4,2,1961,1,4151,2,0,577535
+914,Suburbs,Single Family,2551,6,3,1986,3,5051,8,-1,778155
+915,Suburbs,Condo,1099,1,1,1987,3,5370,4,-1,254896
+916,Suburbs,Townhouse,1782,,2,1964,3,6106,6,-1,520687
+917,Downtown,Single Family,1936,2,1,1956,2,2008,6,1,680104
+918,Countryside,Single Family,2086,4,2,1999,1,7489,1,0,389707
+919,Suburbs,Single Family,2269,6,3,2014,3,,1,1,721581
+920,Downtown,Single Family,2393,5,3,2016,3,2356,8,0,948706
+921,Countryside,Single Family,2135,5,2,1993,1,7315,7,0,454637
+922,Suburbs,Single Family,1938,3,2,1980,0,3895,6,1,567534
+923,Countryside,Condo,,2,,1992,1,7489,9,-1,196243
+924,Suburbs,Single Family,2416,,2,1997,0,3675,3,-1,682459
+925,Suburbs,Single Family,1925,1,1,2010,0,6850,4,1,489891
+926,Downtown,Townhouse,1606,4,2,1959,3,2596,7,0,639036
+927,Downtown,Single Family,2551,5,3,1978,3,3620,7,-1,950372
+928,Suburbs,Townhouse,1240,4,2,1997,0,5485,6,-1,389395
+929,Suburbs,Single Family,2223,3,1,2011,1,6524,10,1,624933
+930,Downtown,Townhouse,1366,1,1,1962,2,2367,9,1,491835
+931,Downtown,Condo,641,1,1,1993,1,2726,1,0,219990
+932,Countryside,Townhouse,1209,3,2,1996,1,5866,3,-1,245943
+933,Beachfront,Townhouse,554,1,1,2013,2,1085,8,1,430773
+934,Suburbs,Single Family,2462,5,3,2002,2,5036,5,0,732723
+935,Downtown,Townhouse,731,3,1,1993,3,2061,2,0,378176
+936,Downtown,Single Family,2651,5,2,1977,1,1923,7,0,948509
+937,Downtown,Single Family,2100,5,2,1951,0,2452,6,0,787296
+938,Countryside,Single Family,2136,4,2,2006,3,8494,6,0,432769
+939,Downtown,Condo,711,1,1,2006,0,2865,3,1,256304
+940,Suburbs,Single Family,2113,4,2,1983,2,5668,7,1,655515
+941,Downtown,Condo,1325,2,1,2007,0,3204,6,0,399924
+942,Suburbs,Condo,500,1,1,2001,1,6212,4,-1,184550
+943,Suburbs,Condo,1283,2,1,1978,1,,5,-1,321340
+944,Countryside,Townhouse,1301,3,2,1984,0,10081,6,0,266160
+945,Downtown,Single Family,1837,3,1,1997,3,3359,9,0,712204
+946,Downtown,Single Family,1877,2,1,1982,0,1193,9,0,644268
+947,Downtown,Single Family,2702,6,3,2022,2,2392,4,-1,979803
+948,Countryside,Single Family,1916,2,1,1958,2,6157,7,-1,354830
+949,Countryside,Single Family,1853,1,1,1997,1,6325,7,0,323264
+950,Suburbs,Single Family,2541,6,,2016,2,4500,8,0,789884
+951,Suburbs,Single Family,2301,,2,1985,0,4124,6,0,658258
+952,Suburbs,Townhouse,918,1,1,2020,2,4506,1,0,272509
+953,Downtown,Condo,964,1,1,1993,1,2328,7,1,335099
+954,Countryside,Single Family,1892,3,2,2009,1,9225,3,1,374720
+955,Suburbs,Condo,1230,2,1,2012,1,6171,3,0,298833
+956,Downtown,Single Family,2518,4,2,1954,1,2413,7,-1,875738
+957,Suburbs,Single Family,2359,4,2,1989,3,3912,10,0,713390
+958,Downtown,Condo,1008,2,1,1968,0,1442,4,0,333379
+959,Downtown,Single Family,2728,6,3,1996,1,,7,-1,975014
+960,Suburbs,Single Family,2199,4,,2014,0,4173,5,1,644065
+961,Downtown,Townhouse,845,2,1,2016,2,1000,8,0,393621
+962,Suburbs,Townhouse,1334,1,1,1967,0,5492,6,0,357395
+963,Downtown,Condo,1525,3,1,1999,1,1951,4,0,460482
+964,Downtown,Condo,595,1,1,1979,0,1789,4,-1,218859
+965,Downtown,Condo,791,1,1,2015,1,3109,6,-1,274886
+966,Downtown,Single Family,2324,4,2,1954,2,3088,3,0,821421
+967,Suburbs,Single Family,2183,6,4,1991,2,6781,2,-1,698207
+968,Downtown,Single Family,1905,3,1,1954,2,1348,7,-1,670660
+969,Suburbs,Single Family,2536,6,3,1999,1,5429,6,1,768312
+970,Suburbs,Condo,1596,2,1,2007,2,5019,7,0,390224
+971,Suburbs,Single Family,2258,4,3,1957,1,5338,3,-1,627556
+972,Countryside,Townhouse,928,,1,1980,3,6865,7,0,199830
+973,Suburbs,Townhouse,735,1,1,1961,1,3597,6,0,255962
+974,Downtown,Condo,977,1,1,1970,1,1959,2,0,302871
+975,Downtown,Condo,1231,2,1,2011,0,1157,6,-1,367361
+976,Downtown,Townhouse,1342,3,1,1982,1,2938,2,0,485673
+977,Suburbs,Single Family,2199,5,2,1975,0,3499,8,-1,646510
+978,Downtown,Condo,723,,,1989,2,1000,7,0,285351
+979,Suburbs,Single Family,1872,4,3,2014,1,4583,6,0,578811
+980,Suburbs,Condo,,1,1,2008,3,3461,3,-1,291224
+981,Downtown,Single Family,2474,6,,1964,0,3676,4,-1,906027
+982,Suburbs,Townhouse,736,1,1,1950,0,4817,6,0,243304
+983,Downtown,Townhouse,1676,4,2,1960,2,1397,7,0,621261
+984,Downtown,Single Family,2372,5,2,2004,1,2467,3,-1,824979
+985,Suburbs,Single Family,2619,4,2,1951,1,5883,1,-1,672479
+986,Suburbs,Townhouse,797,1,1,2014,2,5206,5,1,266345
+987,Suburbs,Single Family,1790,,2,1993,1,4931,6,-1,521443
+988,Suburbs,Townhouse,1155,1,1,1965,0,4016,3,1,299265
+989,Downtown,Condo,1050,3,2,1971,2,2630,6,-1,395347
+990,Countryside,Single Family,2738,5,2,1967,0,9416,5,-1,481244
+991,Suburbs,Single Family,,5,2,1996,2,4780,6,0,703762
+992,Suburbs,Single Family,2127,5,2,1979,0,4151,5,-1,625729
+993,Downtown,Condo,592,1,1,1959,1,2181,7,-1,243843
+994,Suburbs,Single Family,2569,5,2,2007,0,5002,1,-1,676508
+995,Downtown,Condo,610,,1,2011,2,1000,3,1,294158
+996,Downtown,Single Family,,6,3,1955,0,1497,6,0,956989
+997,Countryside,Condo,814,1,1,2016,2,9788,5,0,155944
+998,Downtown,Townhouse,1677,3,2,1990,1,1000,5,1,587900
+999,Beachfront,Townhouse,1403,,1,1992,0,1309,8,1,660654
+1000,Suburbs,Single Family,2158,,2,1967,2,4051,8,0,673637
+1001,Downtown,Townhouse,1044,1,,2007,1,1139,4,0,397419
+1002,Suburbs,Condo,797,3,1,2009,0,4554,8,-1,265047
+1003,Countryside,Condo,1028,2,1,1976,0,,6,-1,183455
+1004,Suburbs,Townhouse,1223,3,,2017,1,6308,4,-1,365079
+1005,Countryside,Single Family,2021,6,2,1971,0,8203,10,-1,439600
+1006,Suburbs,Single Family,2150,6,3,1973,0,,8,-1,700363
+1007,Suburbs,Townhouse,1223,3,3,1989,0,6539,10,1,435265
+1008,Countryside,Single Family,1561,3,1,2015,1,5931,3,1,326030
+1009,Downtown,Townhouse,1337,3,1,1989,1,2673,3,-1,457085
+1010,Suburbs,Townhouse,906,1,,1955,0,3973,6,-1,269242
+1011,Downtown,Single Family,1854,3,2,1967,3,1949,7,-1,720115
+1012,Beachfront,Townhouse,693,1,1,1979,2,2563,3,-1,387454
+1013,Countryside,Single Family,1661,3,1,1970,0,6394,8,-1,322253
+1014,Downtown,Condo,500,1,,2011,0,2141,6,1,225050
+1015,Suburbs,Condo,687,1,1,1959,3,5218,6,-1,228677
+1016,Countryside,Townhouse,1785,2,2,1962,1,9462,7,-1,309652
+1017,Downtown,Single Family,2042,5,2,1958,1,,7,-1,774348
+1018,Suburbs,Single Family,2253,,1,2017,1,3447,1,1,597300
+1019,Countryside,Condo,1020,2,1,1988,2,9417,10,1,217019
+1020,Downtown,Condo,939,1,1,1973,0,1962,5,1,315306
+1021,Suburbs,Condo,876,5,2,1983,2,4191,2,0,314527
+1022,Downtown,Single Family,1841,5,,2010,2,,8,-1,759407
+1023,Countryside,Single Family,2635,4,3,1990,1,6697,10,-1,498899
+1024,Beachfront,Single Family,2742,6,4,1954,2,1000,8,0,1416213
+1025,Countryside,Townhouse,695,1,1,1999,0,6264,8,1,167235
+1026,Suburbs,Single Family,1892,2,2,1953,1,5546,7,-1,547864
+1027,Countryside,Single Family,2116,3,2,2000,1,8327,9,0,410538
+1028,Countryside,Townhouse,910,2,1,2001,1,7185,1,0,172981
+1029,Downtown,Single Family,2351,4,2,1988,0,,7,-1,802699
+1030,Countryside,Townhouse,981,2,1,1957,1,7337,7,0,202872
+1031,Downtown,Condo,1549,3,3,1994,0,3282,1,0,469328
+1032,Suburbs,Townhouse,1557,4,1,1977,0,5122,6,-1,434684
+1033,Downtown,Single Family,,4,2,1976,0,1323,6,0,796681
+1034,Downtown,Single Family,2508,6,,2014,2,1885,7,1,972699
+1035,Downtown,Condo,1231,3,2,1983,0,1000,2,-1,377456
+1036,Suburbs,Townhouse,1030,1,1,2011,1,5216,8,0,317193
+1037,Downtown,Condo,655,1,1,2011,0,2030,3,-1,232440
+1038,Suburbs,Single Family,2223,6,2,1987,0,5527,6,0,671111
+1039,Downtown,Condo,1158,2,1,1975,1,2879,8,1,380624
+1040,Downtown,Condo,941,2,1,1973,0,2115,6,0,319417
+1041,Suburbs,Condo,500,1,1,1988,1,3523,5,-1,187863
+1042,Suburbs,Condo,,1,1,1970,1,,1,1,192615
+1043,Downtown,Townhouse,1177,1,1,1996,3,2014,7,1,450528
+1044,Suburbs,Condo,877,1,,1997,3,3105,10,0,290533
+1045,Countryside,Single Family,2791,4,2,1962,1,8309,9,0,503938
+1046,Suburbs,Single Family,1784,3,2,1952,2,5385,7,-1,556974
+1047,Downtown,Single Family,2351,3,2,1981,0,1641,3,1,772266
+1048,Downtown,Single Family,2646,4,1,1984,1,1802,4,0,849394
+1049,Countryside,Single Family,2881,6,3,1968,2,7404,3,0,557822
+1050,Downtown,Single Family,2078,5,2,1963,0,,5,-1,760478
+1051,Countryside,Single Family,2347,4,2,1997,0,8139,4,0,415217
+1052,Suburbs,Single Family,,3,,2017,0,4091,4,1,617718
+1053,Countryside,Townhouse,1258,1,1,1994,1,9617,7,1,234057
+1054,Suburbs,Townhouse,,1,1,1968,1,4334,5,-1,296542
+1055,Beachfront,Single Family,2330,5,3,2013,1,1000,7,0,1179951
+1056,Downtown,Townhouse,500,1,1,2015,1,1529,9,0,288420
+1057,Suburbs,Condo,1104,,1,2015,1,6030,7,1,276126
+1058,Suburbs,Single Family,2237,3,2,1994,2,,7,1,638407
+1059,Suburbs,Single Family,,5,2,2016,0,3365,7,1,672653
+1060,Suburbs,Condo,1514,2,1,2018,2,3971,5,1,372813
+1061,Countryside,Condo,697,1,1,1952,1,6919,1,-1,138466
+1062,Beachfront,Condo,779,2,1,1987,2,1424,2,1,422088
+1063,Suburbs,Single Family,2797,6,2,1991,2,4738,4,0,803371
+1064,Suburbs,Single Family,1950,4,,1989,1,5493,7,-1,590557
+1065,Suburbs,Single Family,2034,3,2,1999,0,5128,9,-1,566537
+1066,Suburbs,Single Family,2155,5,2,1984,1,5176,10,-1,670068
+1067,Downtown,Single Family,2452,6,2,1973,3,3779,1,1,909473
+1068,Downtown,Single Family,2262,4,3,1966,1,2860,10,0,870293
+1069,Downtown,Townhouse,812,3,2,1989,0,2772,5,1,403177
+1070,Downtown,Townhouse,1040,3,1,2015,0,1000,8,0,433187
+1071,Downtown,Single Family,2017,6,2,1993,3,1248,3,0,816615
+1072,Downtown,Townhouse,,,1,1972,0,1000,2,-1,387984
+1073,Downtown,Single Family,2327,5,3,1955,0,1230,5,0,852424
+1074,Downtown,Single Family,2325,6,3,2015,1,2794,8,0,901902
+1075,Beachfront,Single Family,1667,4,,1970,3,1607,4,-1,882858
+1076,Suburbs,Condo,1219,2,1,1984,1,6072,3,1,297308
+1077,Downtown,Townhouse,1275,2,1,1978,1,2693,9,0,481841
+1078,Suburbs,Condo,1315,3,2,1956,1,5050,9,-1,375602
+1079,Downtown,Single Family,2333,3,2,2002,0,3096,1,1,760249
+1080,Countryside,Condo,1230,2,1,1986,2,9364,7,-1,217144
+1081,Suburbs,Single Family,2339,6,3,1972,1,5454,5,0,735461
+1082,Downtown,Townhouse,1603,1,1,1957,1,2229,5,0,490428
+1083,Suburbs,Condo,1056,3,1,1997,2,5633,6,-1,316381
+1084,Countryside,Single Family,2170,6,2,1959,3,6593,6,0,467893
+1085,Countryside,Condo,1581,2,1,1973,1,7882,6,0,240390
+1086,Suburbs,Condo,1166,2,1,1996,0,4976,6,0,295198
+1087,Suburbs,Single Family,2372,5,2,2002,2,4631,6,-1,711507
+1088,Downtown,Condo,517,,1,1988,1,1210,7,-1,250133
+1089,Beachfront,Single Family,1813,4,2,2016,3,2998,7,-1,977143
+1090,Downtown,Condo,987,1,1,2015,3,2170,6,1,348847
+1091,Countryside,Townhouse,1243,3,1,1955,0,8260,3,-1,221895
+1092,Suburbs,Townhouse,1015,1,1,1970,3,6424,7,0,333738
+1093,Suburbs,Condo,942,2,1,2022,1,4804,7,1,270901
+1094,Suburbs,Condo,1376,2,1,1985,1,4611,7,1,361047
+1095,Downtown,Single Family,2408,6,3,1952,0,3361,6,1,944475
+1096,Downtown,Condo,557,2,1,1991,2,1000,4,1,289651
+1097,Downtown,Single Family,2166,4,2,1994,1,2051,7,0,807619
+1098,Downtown,Single Family,1958,2,,1993,1,1262,5,0,653480
+1099,Suburbs,Single Family,2083,4,1,1982,3,5292,9,-1,634110
+1100,Downtown,Single Family,,5,3,2009,1,2571,7,-1,816537
+1101,Downtown,Condo,756,1,1,2019,1,2627,4,0,268900
+1102,Beachfront,Single Family,1823,5,3,1975,2,3026,6,-1,1011004
+1103,Countryside,Condo,861,2,1,1970,2,7747,8,1,206814
+1104,Countryside,Single Family,2031,5,2,1951,3,7809,5,-1,423578
+1105,Beachfront,Single Family,1321,3,1,1996,3,2526,6,-1,744583
+1106,Downtown,Condo,1515,1,1,1979,1,2887,7,0,427376
+1107,Downtown,Single Family,2526,5,2,1976,1,1000,7,-1,894064
+1108,Suburbs,Single Family,2087,,3,2020,0,5314,3,1,652145
+1109,Suburbs,Condo,905,1,1,1969,1,4604,6,1,258179
+1110,Downtown,Single Family,1848,4,2,1999,1,2087,9,1,756105
+1111,Countryside,Townhouse,1708,3,1,1972,2,7643,10,0,312210
+1112,Downtown,Single Family,2769,4,1,1962,0,,7,1,910092
+1113,Downtown,Single Family,2247,4,,1953,0,1000,10,-1,797024
+1114,Suburbs,Condo,1207,3,2,1963,0,4848,6,1,350124
+1115,Suburbs,Single Family,2252,4,1,1969,0,5358,6,-1,624585
+1116,Suburbs,Single Family,1798,3,2,1962,1,4396,6,-1,526792
+1117,Downtown,Single Family,2076,4,2,1952,0,3189,3,1,734214
+1118,Countryside,Single Family,2239,6,3,1996,0,10458,6,0,467370
+1119,Downtown,Townhouse,1063,1,1,1952,0,2413,6,1,388742
+1120,Downtown,Single Family,2134,6,3,1950,2,1958,8,0,883631
+1121,Countryside,Condo,872,3,2,1973,2,7087,7,1,197816
+1122,Beachfront,Townhouse,1175,1,1,1984,0,2370,7,1,541662
+1123,Countryside,Single Family,2215,3,2,1963,2,9477,5,0,413517
+1124,Countryside,Townhouse,881,1,1,2016,1,9948,3,0,169447
+1125,Suburbs,Single Family,1984,2,,1962,0,6396,5,0,523774
+1126,Suburbs,Townhouse,814,1,1,1996,1,5843,7,1,288171
+1127,Downtown,Single Family,2493,6,4,1999,0,2410,4,-1,922019
+1128,Suburbs,Condo,500,1,1,1975,2,3951,6,0,184551
+1129,Downtown,Single Family,2546,,3,1952,0,1900,5,0,939304
+1130,Downtown,Single Family,,,2,2000,3,1784,7,-1,900791
+1131,Suburbs,Condo,809,1,1,1989,0,4906,8,-1,235623
+1132,Suburbs,Condo,500,1,1,2017,1,4280,7,0,190424
+1133,Downtown,Single Family,2091,5,2,1985,3,2757,5,1,836637
+1134,Downtown,Single Family,2180,4,2,2000,0,1726,6,0,780590
+1135,Suburbs,Condo,596,1,1,1950,1,4644,3,0,204866
+1136,Downtown,Condo,745,,2,1982,1,1283,3,0,300943
+1137,Countryside,Townhouse,1659,3,1,1956,1,8232,3,0,282345
+1138,Suburbs,Condo,1099,2,1,2001,0,6496,3,1,282569
+1139,Suburbs,Townhouse,922,2,1,1960,0,4989,3,0,277694
+1140,Suburbs,Condo,500,3,2,1976,1,5281,4,-1,233923
+1141,Countryside,Single Family,2101,2,1,1963,1,9935,3,-1,350622
+1142,Downtown,Single Family,2135,5,2,1995,1,3203,7,1,819029
+1143,Suburbs,Condo,,1,1,1959,0,5587,10,1,283433
+1144,Suburbs,Condo,739,1,1,1973,1,5545,8,-1,219721
+1145,Downtown,Single Family,2353,4,1,2010,1,1396,1,-1,731851
+1146,Countryside,Single Family,2780,5,3,1967,1,7299,6,0,531296
+1147,Suburbs,Townhouse,1444,3,2,1958,1,5141,8,1,451324
+1148,Suburbs,Condo,885,5,3,1966,0,5166,3,0,323594
+1149,Countryside,Single Family,2145,5,2,2007,0,7150,8,1,450026
+1150,Countryside,Single Family,2092,4,2,1962,0,8703,6,1,414013
+1151,Suburbs,Single Family,2554,5,3,1999,1,4722,9,1,759139
+1152,Countryside,Single Family,2011,4,1,1955,0,9127,8,0,395095
+1153,Suburbs,Single Family,2213,3,2,2000,1,4944,7,0,633729
+1154,Suburbs,Single Family,2215,4,1,1985,1,,7,1,637602
+1155,Suburbs,Condo,749,1,1,2020,1,4062,4,0,217330
+1156,Suburbs,Single Family,1788,2,1,1974,1,4172,3,-1,467077
+1157,Downtown,Townhouse,1296,4,3,1960,0,3317,6,-1,513822
+1158,Countryside,Townhouse,1181,2,1,1993,1,8268,3,0,222414
+1159,Countryside,Single Family,2350,4,1,1963,3,8389,3,0,425086
+1160,Downtown,Condo,739,1,1,1978,1,3600,5,0,276935
+1161,Countryside,Single Family,2566,6,4,1999,2,6682,8,-1,533658
+1162,Downtown,Townhouse,936,2,1,1954,2,2671,1,0,370307
+1163,Downtown,Single Family,2713,6,3,2021,1,1000,4,-1,968675
+1164,Suburbs,Condo,500,1,1,2018,0,4562,6,0,172724
+1165,Downtown,Condo,1030,2,1,2006,1,1000,6,0,360876
+1166,Countryside,Single Family,2342,4,2,1975,0,8858,3,1,438560
+1167,Countryside,Single Family,1961,1,,1955,1,6110,10,1,347467
+1168,Suburbs,Condo,1027,4,2,1965,2,4769,6,1,376451
+1169,Downtown,Condo,1283,3,1,2009,2,1000,6,1,443276
+1170,Downtown,Single Family,1534,3,2,1961,1,1145,1,0,594274
+1171,Suburbs,Condo,1050,1,1,1952,1,4299,6,-1,252452
+1172,Beachfront,Single Family,1452,2,1,2012,1,3319,8,0,745438
+1173,Suburbs,Condo,610,1,1,2013,2,4664,4,0,206071
+1174,Downtown,Single Family,2688,4,2,2011,2,3727,5,0,898332
+1175,Suburbs,Townhouse,1025,4,3,1955,3,6936,1,0,399981
+1176,Suburbs,Single Family,1847,2,1,1968,0,7113,10,1,537495
+1177,Suburbs,Single Family,2140,3,,1967,1,4941,2,-1,553197
+1178,Downtown,Single Family,2820,6,3,1992,0,2210,8,0,1014516
+1179,Suburbs,Single Family,1650,5,3,2022,0,5377,5,1,565983
+1180,Suburbs,Condo,584,1,1,1952,3,4632,6,1,243991
+1181,Beachfront,Single Family,2649,4,2,2021,3,2424,7,-1,1227134
+1182,Downtown,Townhouse,1757,5,3,1987,0,1064,3,1,645438
+1183,Suburbs,Single Family,2168,5,3,2017,0,3124,6,-1,650145
+1184,Countryside,Single Family,1828,4,3,1993,0,8714,5,1,370253
+1185,Downtown,Single Family,2828,6,3,2012,2,,2,0,1005077
+1186,Countryside,Single Family,2678,6,3,1991,0,7023,8,0,531557
+1187,Suburbs,Single Family,2403,6,3,2013,0,4149,1,1,707206
+1188,Downtown,Single Family,1956,3,2,2003,0,3515,7,-1,695109
+1189,Downtown,Single Family,2185,6,3,2020,1,2464,5,-1,860132
+1190,Suburbs,Single Family,,,2,1986,3,3477,3,0,659753
+1191,Downtown,Condo,,2,1,1953,0,1000,7,-1,353680
+1192,Suburbs,Condo,1335,1,,1951,1,4708,6,1,335539
+1193,Downtown,Single Family,2463,5,2,1993,0,2476,5,0,868273
+1194,Suburbs,Single Family,1876,3,1,2016,1,4205,6,-1,527551
+1195,Downtown,Townhouse,1612,4,2,2017,1,1827,4,0,580437
+1196,Countryside,Condo,993,,1,2011,0,8114,8,0,194529
+1197,Beachfront,Condo,1106,1,1,1950,0,2135,5,-1,432974
+1198,Beachfront,Single Family,2639,5,2,1966,2,1000,4,0,1230009
+1199,Suburbs,Condo,566,2,1,1965,0,5221,7,1,215860
+1200,Downtown,Condo,889,1,1,1958,1,,1,0,271979
+1201,Suburbs,Condo,740,1,1,2002,1,4713,4,0,210299
+1202,Downtown,Townhouse,729,1,1,2022,0,1498,5,0,313535
+1203,Downtown,Single Family,2304,5,3,2008,1,1000,8,-1,879478
+1204,Downtown,Single Family,2953,6,3,1958,2,2843,10,-1,1077342
+1205,Suburbs,Condo,,1,1,1961,1,3876,7,1,210139
+1206,Suburbs,Townhouse,1190,,1,1990,0,4477,6,1,333300
+1207,Suburbs,Single Family,2392,5,2,1964,1,5878,7,-1,680315
+1208,Suburbs,Single Family,2236,5,3,2015,1,4448,6,0,672325
+1209,Downtown,Single Family,,4,2,1960,1,1241,4,1,797515
+1210,Beachfront,Single Family,1810,3,2,1957,1,1731,10,-1,909503
+1211,Suburbs,Condo,969,1,1,2004,0,5540,3,-1,225826
+1212,Suburbs,Condo,672,,2,1955,1,6446,5,1,247783
+1213,Downtown,Single Family,1543,2,1,2002,1,1063,8,1,597209
+1214,Suburbs,Single Family,2558,,3,1969,1,4144,7,-1,709470
+1215,Suburbs,Single Family,2487,6,3,1988,1,4723,1,0,729339
+1216,Downtown,Single Family,2215,4,2,2021,0,2230,1,-1,707889
+1217,Downtown,Condo,,2,2,1983,1,1229,6,0,377206
+1218,Suburbs,Townhouse,1522,,2,2006,3,5688,6,1,502353
+1219,Suburbs,Townhouse,1267,2,1,1968,1,4082,6,0,372115
+1220,Downtown,Single Family,2471,6,4,2020,1,1000,5,0,961963
+1221,Beachfront,Townhouse,1110,1,1,1980,1,2531,10,0,564137
+1222,Downtown,Condo,1293,2,1,1989,3,2647,4,-1,400587
+1223,Suburbs,Condo,,2,2,1963,3,6044,6,-1,311384
+1224,Countryside,Single Family,2258,3,1,1986,1,6008,6,1,413895
+1225,Suburbs,Single Family,1818,4,2,1993,0,,3,0,545765
+1226,Suburbs,Single Family,2286,5,3,1958,3,4748,4,-1,699216
+1227,Downtown,Single Family,1950,4,2,2007,1,3756,9,0,761942
+1228,Downtown,Single Family,2008,,2,1969,1,1840,8,1,846331
+1229,Beachfront,Single Family,1955,4,2,1999,2,1000,3,0,981217
+1230,Suburbs,Single Family,1880,5,2,1969,1,5296,8,0,624883
+1231,Countryside,Condo,1537,2,1,1985,0,9309,4,-1,238358
+1232,Downtown,Single Family,2599,6,3,1976,2,3096,7,-1,980970
+1233,Downtown,Single Family,2776,6,3,2021,1,2561,2,1,997263
+1234,Downtown,Townhouse,833,1,1,1981,1,2262,8,0,348771
+1235,Suburbs,Townhouse,1221,3,2,1950,0,2732,2,1,367567
+1236,Downtown,Condo,511,3,2,1966,1,2025,6,1,312742
+1237,Countryside,Townhouse,991,1,1,1958,0,8178,7,1,169003
+1238,Suburbs,Condo,624,1,1,1994,1,4840,3,-1,177608
+1239,Beachfront,Townhouse,1571,3,1,2015,1,2707,6,-1,701273
+1240,Downtown,Single Family,2081,4,2,1981,2,1824,1,0,742938
+1241,Countryside,Single Family,2520,4,2,1994,1,7631,7,-1,462566
+1242,Suburbs,Single Family,2381,,1,1958,2,6038,5,1,660960
+1243,Suburbs,Single Family,2891,5,3,1979,2,4586,6,1,818400
+1244,Countryside,Single Family,1756,5,2,1987,1,8064,9,0,377863
+1245,Suburbs,Condo,1277,2,1,2009,0,5897,5,-1,303714
+1246,Suburbs,Condo,1243,2,2,1950,2,3989,1,-1,300122
+1247,Downtown,Condo,607,1,1,1954,1,1000,7,0,257840
+1248,Downtown,Single Family,2502,4,2,2012,0,3357,7,1,875647
+1249,Countryside,Townhouse,1300,2,1,1985,0,7407,10,0,243173
+1250,Suburbs,Condo,,2,2,2014,2,5692,3,-1,262803
+1251,Suburbs,Single Family,1952,5,2,2022,0,3224,5,-1,572934
+1252,Suburbs,Condo,684,1,1,1973,0,2496,8,1,227789
+1253,Downtown,Single Family,2814,6,3,1953,1,2364,8,0,1024904
+1254,Downtown,Single Family,2200,5,3,2017,2,1872,7,1,882338
+1255,Suburbs,Townhouse,1434,3,1,1974,1,5373,4,1,426116
+1256,Suburbs,Single Family,,4,1,1956,0,6874,4,0,534608
+1257,Downtown,Single Family,1966,2,1,1962,0,1000,3,-1,621224
+1258,Suburbs,Townhouse,1524,3,2,2017,1,5038,9,0,447813
+1259,Downtown,Condo,500,1,1,1992,0,3477,3,0,218690
+1260,Suburbs,Single Family,2075,5,3,2006,1,3907,6,1,678673
+1261,Downtown,Single Family,2210,4,2,1985,0,1415,6,-1,771304
+1262,Suburbs,Single Family,2233,6,3,1963,3,3232,5,-1,701816
+1263,Downtown,Condo,846,1,1,2021,1,4237,5,0,298724
+1264,Suburbs,Single Family,2318,3,3,1976,0,2795,7,-1,658595
+1265,Downtown,Single Family,2407,5,3,1986,2,2798,5,0,902112
+1266,Downtown,Townhouse,1420,3,1,2020,0,1000,4,-1,468992
+1267,Downtown,Condo,604,2,2,1974,1,1000,5,-1,281030
+1268,Suburbs,Single Family,2114,4,3,2016,2,,8,0,668155
+1269,Suburbs,Condo,1258,1,1,1953,1,4257,10,0,319129
+1270,Downtown,Condo,1168,2,1,1965,1,2651,7,0,392845
+1271,Suburbs,Single Family,1788,2,1,1968,1,6380,7,-1,487077
+1272,Countryside,Single Family,2305,4,2,1978,0,8200,6,1,426638
+1273,Suburbs,Townhouse,606,1,1,2000,0,5889,7,-1,240220
+1274,Downtown,Single Family,2214,4,2,1967,2,2080,10,-1,827034
+1275,Suburbs,Condo,1469,3,1,2007,1,5127,6,0,401983
+1276,Downtown,Single Family,1915,3,1,1993,0,1365,2,-1,622249
+1277,Downtown,Single Family,1949,3,2,1965,0,3928,10,0,729999
+1278,Beachfront,Single Family,2429,5,3,2014,3,2742,7,1,1265908
+1279,Downtown,Single Family,1737,4,2,1951,3,2521,5,0,707071
+1280,Suburbs,Single Family,2010,5,,2005,1,5770,10,0,665134
+1281,Suburbs,Single Family,2378,,2,1977,2,4322,5,0,689677
+1282,Suburbs,Townhouse,1009,2,1,2014,2,5930,5,-1,305754
+1283,Suburbs,Townhouse,1129,2,1,1954,0,6555,7,0,351846
+1284,Downtown,Condo,1123,2,1,1971,0,1000,4,0,359997
+1285,Downtown,Townhouse,1326,1,1,1962,0,2541,7,1,458981
+1286,Suburbs,Single Family,2280,5,2,2014,2,5062,3,-1,667248
+1287,Downtown,Townhouse,1098,2,1,1965,2,1480,3,0,404987
+1288,Downtown,Single Family,2311,5,2,2013,1,1000,6,1,849604
+1289,Downtown,Townhouse,1162,1,1,1981,0,3051,6,1,399399
+1290,Downtown,Townhouse,,,1,2000,1,2207,3,1,460918
+1291,Downtown,Condo,750,1,1,2007,2,1792,10,0,332443
+1292,Downtown,Townhouse,1145,2,2,1995,2,2542,6,0,460454
+1293,Suburbs,Condo,603,2,1,2001,0,4872,3,1,241663
+1294,Suburbs,Single Family,2189,4,2,2012,1,4295,5,-1,611674
+1295,Countryside,Single Family,1956,4,,2009,0,8128,8,-1,392910
+1296,Downtown,Condo,565,1,1,2014,2,1971,6,1,270015
+1297,Downtown,Single Family,2277,4,2,2004,1,1000,3,0,794062
+1298,Downtown,Condo,963,1,1,2006,0,1370,3,1,303745
+1299,Suburbs,Townhouse,1434,3,2,2020,2,3735,6,1,445514
+1300,Suburbs,Single Family,2070,5,3,2022,0,3348,5,1,642813
+1301,Downtown,Condo,1022,4,2,1975,2,2467,7,-1,431475
+1302,Countryside,Townhouse,1365,2,1,1961,0,7331,9,0,263361
+1303,Downtown,Townhouse,1333,3,1,2020,1,3041,4,1,483250
+1304,Suburbs,Townhouse,952,,1,1995,3,3171,8,1,331515
+1305,Suburbs,Condo,944,1,1,1996,1,4702,9,0,274931
+1306,Countryside,Townhouse,1309,2,2,1987,1,7384,9,-1,266828
+1307,Suburbs,Condo,902,2,1,1970,1,3422,10,1,316630
+1308,Countryside,Single Family,1574,5,3,1963,0,8005,8,0,382786
+1309,Downtown,Single Family,2248,4,2,1951,1,1000,6,0,802000
+1310,Countryside,Condo,1563,1,1,2021,2,8222,6,0,230320
+1311,Downtown,Single Family,2091,5,3,2019,3,2720,6,0,847198
+1312,Countryside,Condo,681,1,1,1982,2,8267,8,1,158641
+1313,Suburbs,Condo,1012,1,1,1955,1,5393,5,0,263157
+1314,Countryside,Single Family,,5,1,1986,2,9031,3,0,439205
+1315,Suburbs,Condo,1257,3,1,1963,2,4973,3,-1,333245
+1316,Suburbs,Condo,522,1,1,1986,1,4173,8,0,211649
+1317,Suburbs,Single Family,2419,5,2,1957,0,4391,7,0,705461
+1318,Suburbs,Single Family,2377,4,2,1962,1,4412,6,1,673311
+1319,Downtown,Single Family,2157,4,2,1989,2,1000,4,0,801364
+1320,Downtown,Single Family,2301,3,2,2007,1,2784,7,0,788704
+1321,Downtown,Townhouse,1508,3,2,1967,2,2526,1,0,531479
+1322,Downtown,Single Family,2461,4,2,2006,0,1000,6,0,837053
+1323,Countryside,Condo,557,1,1,1987,3,7173,5,0,142762
+1324,Downtown,Single Family,2446,5,3,1981,1,1000,10,0,939722
+1325,Beachfront,Single Family,2180,5,3,2015,1,2317,6,0,1109616
+1326,Downtown,Townhouse,1221,4,2,1974,0,3076,6,0,495693
+1327,Downtown,Condo,921,1,1,2007,0,2448,7,-1,305492
+1328,Suburbs,Single Family,2154,3,1,1982,2,4298,6,1,609979
+1329,Suburbs,Single Family,2557,5,2,2015,3,4681,4,1,745434
+1330,Suburbs,Single Family,2174,5,2,1979,1,3607,6,0,643791
+1331,Suburbs,Single Family,1864,4,2,1983,0,3683,9,0,579504
+1332,Suburbs,Condo,781,1,1,2018,1,5846,6,1,248809
+1333,Downtown,Single Family,2253,4,2,1997,0,3444,7,-1,778366
+1334,Beachfront,Single Family,2568,6,3,1989,0,1285,10,1,1333640
+1335,Beachfront,Single Family,2380,6,3,2000,2,2048,8,-1,1254768
+1336,Suburbs,Townhouse,944,1,1,1962,3,5720,7,0,311500
+1337,Downtown,Townhouse,1945,3,1,1980,0,1000,7,1,617057
+1338,Suburbs,Single Family,2279,,2,1988,1,3951,9,0,664356
+1339,Downtown,Condo,1282,2,1,2012,0,3993,10,0,406232
+1340,Downtown,Single Family,2154,6,3,1997,0,1042,10,1,885617
+1341,Downtown,Single Family,2360,4,2,1997,0,1638,7,1,823691
+1342,Suburbs,Condo,1151,1,1,2010,1,4397,5,0,280641
+1343,Countryside,Townhouse,1565,3,1,1961,0,6005,3,0,273120
+1344,Suburbs,Townhouse,1517,2,1,2005,1,5082,5,0,415146
+1345,Suburbs,Condo,1161,1,1,1967,0,4974,9,1,302664
+1346,Suburbs,Single Family,2105,,1,1976,0,5180,8,1,592665
+1347,Downtown,Condo,728,2,1,1977,0,1915,6,1,297523
+1348,Downtown,Single Family,2299,4,3,2001,2,1540,6,1,876105
+1349,Beachfront,Condo,1179,,1,1965,2,1482,5,-1,474186
+1350,Downtown,Single Family,2133,5,2,2007,2,1499,6,1,848568
+1351,Countryside,Condo,1219,2,2,1958,1,7011,7,1,223863
+1352,Suburbs,Single Family,2635,5,2,1975,1,4166,6,1,761520
+1353,Suburbs,Single Family,,4,1,1977,1,4028,3,-1,540460
+1354,Suburbs,Townhouse,948,2,1,1985,0,5573,6,1,312714
+1355,Suburbs,Single Family,2157,6,3,1958,2,5306,4,-1,683499
+1356,Countryside,Condo,992,2,1,1996,1,8027,10,-1,186349
+1357,Countryside,Single Family,2042,,3,2000,1,9942,5,0,444429
+1358,Suburbs,Single Family,2605,5,3,2006,1,4074,9,0,771937
+1359,Downtown,Single Family,2327,3,2,1981,1,3118,4,0,764994
+1360,Suburbs,Single Family,2211,5,2,2016,3,4739,3,1,680795
+1361,Countryside,Townhouse,769,1,1,2006,1,8157,7,0,189148
+1362,Downtown,Single Family,1805,2,2,2003,1,2671,7,-1,643338
+1363,Suburbs,Townhouse,,2,2,1965,1,4522,6,-1,383672
+1364,Suburbs,Condo,500,1,1,2011,3,3943,4,1,215077
+1365,Suburbs,Single Family,,6,2,2005,1,4108,1,-1,688024
+1366,Downtown,Condo,852,2,1,1972,1,1000,7,-1,328907
+1367,Suburbs,Condo,1872,4,3,1966,0,5606,3,0,440590
+1368,Countryside,Condo,1592,2,1,1987,2,8582,5,0,246916
+1369,Downtown,Single Family,2145,4,3,2021,0,3583,7,1,810241
+1370,Downtown,Single Family,2168,3,2,1979,1,2414,2,1,736218
+1371,Beachfront,Townhouse,1498,4,2,2007,2,2655,3,1,796789
+1372,Downtown,Townhouse,1710,4,3,1971,3,1918,2,0,636274
+1373,Countryside,Townhouse,708,1,1,1966,1,8464,10,0,199100
+1374,Suburbs,Single Family,1664,3,1,1964,2,6089,5,0,507435
+1375,Downtown,Condo,713,3,1,1997,0,2181,9,0,323791
+1376,Countryside,Single Family,2374,3,2,1981,2,7478,4,-1,416905
+1377,Suburbs,Single Family,2349,4,2,1989,1,4779,7,0,668616
+1378,Suburbs,Single Family,2520,6,3,2006,1,5751,4,-1,732582
+1379,Downtown,Condo,540,1,1,2007,2,1508,6,1,268261
+1380,Suburbs,Single Family,1505,3,2,1965,2,5889,8,1,528737
+1381,Downtown,Single Family,2457,6,4,1977,0,3908,8,-1,946653
+1382,Downtown,Townhouse,951,2,1,1950,2,2901,7,-1,401899
+1383,Beachfront,Single Family,1594,1,1,1990,0,2747,8,1,763266
+1384,Downtown,Single Family,2243,4,,1997,2,2347,4,0,800286
+1385,Suburbs,Single Family,2437,6,3,1980,1,4223,6,1,768138
+1386,Downtown,Townhouse,1163,4,2,1985,0,1132,6,0,505936
+1387,Suburbs,Condo,762,1,1,1982,1,4122,8,1,261939
+1388,Downtown,Single Family,2152,6,3,1982,1,,4,1,849401
+1389,Beachfront,Townhouse,1088,2,2,1972,1,1610,9,-1,608976
+1390,Suburbs,Townhouse,795,1,1,2009,0,4971,6,-1,235637
+1391,Downtown,Single Family,1985,3,1,1979,0,2418,7,0,668594
+1392,Downtown,Condo,1056,1,1,1994,2,1159,4,1,369731
+1393,Downtown,Condo,996,,1,1988,0,1498,6,-1,334134
+1394,Suburbs,Condo,950,2,1,1994,1,5322,7,0,286547
+1395,Downtown,Single Family,1901,4,1,1961,1,1709,6,0,701680
+1396,Countryside,Townhouse,1145,1,1,1981,0,7802,9,1,225820
+1397,Suburbs,Condo,500,1,1,2005,1,3967,7,1,204607
+1398,Downtown,Single Family,2253,3,2,1973,1,1816,6,0,770758
+1399,Suburbs,Single Family,2628,6,3,1962,1,,8,-1,779229
+1400,Suburbs,Single Family,1757,4,2,1969,1,4553,7,-1,551131
+1401,Downtown,Single Family,2024,4,2,2005,1,1000,7,0,749784
+1402,Downtown,Condo,998,1,1,2002,1,2958,4,0,318556
+1403,Downtown,Single Family,2575,5,2,2017,2,2523,5,0,899125
+1404,Suburbs,Single Family,2065,3,2,2003,0,5212,7,1,613203
+1405,Suburbs,Condo,692,1,1,1983,3,3681,8,0,246975
+1406,Suburbs,Single Family,1609,2,1,1977,1,3823,5,1,459286
+1407,Countryside,Townhouse,1231,2,1,1999,2,6462,4,-1,235132
+1408,Countryside,Single Family,2812,6,3,1951,1,8431,6,-1,525534
+1409,Suburbs,Single Family,2283,3,3,1975,1,6019,2,0,620708
+1410,Countryside,Single Family,2193,6,3,2000,3,8465,7,0,491555
+1411,Downtown,Single Family,2296,6,3,1996,0,3949,7,0,881834
+1412,Downtown,Single Family,2196,4,2,1975,0,,5,1,806497
+1413,Downtown,Condo,656,1,1,2010,0,1676,8,0,288449
+1414,Downtown,Townhouse,1446,3,2,1972,3,2106,6,0,557746
+1415,Suburbs,Single Family,2267,6,2,1986,1,4770,7,1,702767
+1416,Countryside,Condo,905,1,1,1990,1,,4,0,154700
+1417,Downtown,Condo,607,2,2,2001,2,1360,6,-1,296235
+1418,Downtown,Townhouse,1591,2,1,1998,1,1000,8,-1,529103
+1419,Suburbs,Single Family,2399,3,2,1976,2,3210,4,1,654873
+1420,Countryside,Single Family,2034,5,2,1955,1,8480,5,1,412384
+1421,Downtown,Single Family,2500,6,3,2015,2,1474,5,-1,939015
+1422,Suburbs,Condo,750,3,2,1973,0,,3,0,242092
+1423,Downtown,Townhouse,965,1,1,1987,0,1380,4,1,361679
+1424,Downtown,Single Family,1972,4,1,1977,1,3952,4,1,726999
+1425,Beachfront,Single Family,1668,3,1,1977,1,1000,9,0,854002
+1426,Beachfront,Townhouse,1341,3,2,2015,1,2727,7,1,708093
+1427,Downtown,Townhouse,,1,1,2010,1,2421,5,0,296487
+1428,Beachfront,Townhouse,831,1,1,1995,0,3341,7,-1,410970
+1429,Suburbs,Condo,500,1,1,2018,1,4876,1,-1,150122
+1430,Countryside,Single Family,2174,5,2,1992,1,6439,6,0,434746
+1431,Suburbs,Condo,854,1,1,2008,0,5992,4,0,210813
+1432,Suburbs,Condo,,2,1,1951,1,4750,3,1,245457
+1433,Suburbs,Single Family,1887,5,3,1964,1,6274,8,-1,611270
+1434,Suburbs,Condo,548,1,1,1986,1,5815,3,0,199261
+1435,Downtown,Condo,1039,3,2,2020,0,2995,8,-1,386966
+1436,Downtown,Single Family,2034,5,2,1969,3,4368,6,1,823532
+1437,Downtown,Condo,994,1,1,1984,1,2281,1,1,317744
+1438,Suburbs,Condo,634,2,1,1983,0,6442,7,-1,209716
+1439,Downtown,Townhouse,1254,2,1,1980,1,1595,6,0,438976
+1440,Suburbs,Single Family,2590,6,3,1968,2,5540,5,-1,774875
+1441,Beachfront,Single Family,2375,6,3,2017,1,1497,4,0,1198769
+1442,Downtown,Condo,776,1,1,1973,2,2479,2,-1,274410
+1443,Suburbs,Single Family,,3,2,1988,0,5374,9,0,631850
+1444,Suburbs,Condo,827,1,1,2003,2,2939,6,1,259291
+1445,Countryside,Condo,902,3,1,1988,1,7388,2,0,184631
+1446,Downtown,Single Family,2102,4,3,1966,0,,8,-1,773652
+1447,Suburbs,Condo,,2,2,1968,1,2742,4,0,257898
+1448,Countryside,Condo,,2,2,1997,3,7904,4,0,213018
+1449,Countryside,Single Family,1901,4,2,1984,2,9008,4,0,393789
+1450,Suburbs,Townhouse,895,2,2,1981,1,,6,-1,306326
+1451,Suburbs,Townhouse,783,1,1,1996,0,4217,2,1,247957
+1452,Suburbs,Condo,500,1,1,1996,1,6364,6,0,197401
+1453,Countryside,Condo,534,1,1,2013,0,9208,8,-1,134433
+1454,Suburbs,Single Family,2247,5,3,1995,0,2852,3,-1,632572
+1455,Downtown,Townhouse,932,1,1,1984,1,2115,5,1,363359
+1456,Countryside,Condo,1054,3,1,1966,2,8226,5,-1,215298
+1457,Suburbs,Condo,910,1,1,1991,1,6518,6,1,277772
+1458,Suburbs,Townhouse,609,1,1,1978,0,5286,9,0,233641
+1459,Downtown,Single Family,2396,4,2,2019,1,3393,5,0,833591
+1460,Suburbs,Townhouse,1443,2,1,1966,3,4219,2,1,401193
+1461,Downtown,Single Family,1901,3,2,1963,2,1000,5,-1,677559
+1462,Suburbs,Single Family,2326,6,2,1973,1,4352,3,0,686125
+1463,Downtown,Single Family,1943,3,1,2006,3,3576,7,0,706214
+1464,Suburbs,Townhouse,1229,3,1,1999,2,5925,1,1,370327
+1465,Beachfront,Townhouse,820,1,1,2006,0,4322,4,0,399620
+1466,Downtown,Condo,500,1,1,2010,1,1000,6,0,241699
+1467,Beachfront,Condo,785,1,1,1988,3,3041,4,-1,384902
+1468,Suburbs,Condo,862,1,1,2004,1,5754,6,0,240742
+1469,Countryside,Townhouse,1080,1,1,1985,0,7714,3,-1,196534
+1470,Suburbs,Single Family,1844,4,,1986,1,5775,9,-1,578708
+1471,Suburbs,Single Family,2080,5,3,1963,1,5139,4,-1,650782
+1472,Suburbs,Single Family,2280,3,2,1976,3,5460,9,0,672463
+1473,Countryside,Condo,886,3,1,1980,1,8680,5,0,195155
+1474,Suburbs,Condo,954,,1,2022,1,5980,7,0,272305
+1475,Downtown,Single Family,1998,,2,1993,2,2086,4,0,743064
+1476,Suburbs,Single Family,2551,5,2,2017,1,,7,1,741172
+1477,Countryside,Townhouse,847,1,1,1997,0,7784,5,1,190130
+1478,Suburbs,Single Family,2346,5,2,2006,3,6883,6,0,706371
+1479,Suburbs,Condo,1254,3,1,1971,1,3872,7,1,338686
+1480,Suburbs,Townhouse,,1,1,1953,1,4014,6,1,367979
+1481,Countryside,Single Family,2139,,,2021,1,7073,6,0,417639
+1482,Downtown,Single Family,2041,4,2,1995,0,2956,2,0,708490
+1483,Suburbs,Condo,1210,3,1,2008,3,4194,4,-1,329270
+1484,Downtown,Townhouse,773,2,1,1983,1,3490,6,1,357290
+1485,Downtown,Condo,608,1,1,1960,1,1473,1,-1,226239
+1486,Downtown,Townhouse,1080,1,1,1980,0,,4,-1,347233
+1487,Downtown,Single Family,2571,5,3,1960,1,2640,4,0,918404
+1488,Suburbs,Condo,1013,1,1,2005,2,3984,4,1,269036
+1489,Downtown,Condo,609,1,1,1987,2,1000,6,0,285362
+1490,Suburbs,Townhouse,1106,2,1,1970,3,5282,6,1,370207
+1491,Downtown,Single Family,2015,3,1,1959,1,1722,9,1,716589
+1492,Downtown,Townhouse,987,2,1,1975,2,2498,5,0,406599
+1493,Downtown,Condo,1193,1,1,1957,1,1000,9,0,380357
+1494,Downtown,Single Family,1788,3,1,1957,2,1643,7,0,670361
+1495,Suburbs,Single Family,2682,5,4,2009,2,4818,9,1,834936
+1496,Suburbs,Townhouse,1448,4,2,2021,1,2562,8,1,472885
+1497,Suburbs,Single Family,2527,5,3,1983,1,5995,7,1,772123
+1498,Suburbs,Single Family,2061,2,1,1965,0,4242,5,-1,516055
+1499,Downtown,Single Family,2155,3,3,1962,1,3499,4,0,757334
+1500,Countryside,Townhouse,770,1,1,1971,3,7307,4,-1,154868
