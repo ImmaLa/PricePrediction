@@ -7,9 +7,9 @@ The features used in the project include: Location, Property Type, Size In SqFt,
 Property size and bedrooms are the strongest drivers of price
 
 The key insights from this analysis: 
-Bathrooms, garage spaces, newer builds, and proximity to good schools increase value
-Location and large lot sizes can negatively impact price in certain areas
-Market trends meaningfully influence property valuation
+Bathrooms, garage spaces, newer builds, and proximity to good schools increase value.
+Location and large lot sizes can negatively impact price in certain areas.
+Market trends meaningfully influence property valuation.
 
 For the model performace R²: 0.86 (explains 86% of price variation), MAE: $67,620, RMSE: $90,705, Residuals show a normal distribution, indicating minimal bias.
 
