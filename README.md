@@ -1,4 +1,4 @@
-# PricePrediction
+# Predicting House Prices – Maple Valley Realty
 This project develops a regression-based predictive model to estimate house prices using property features and market data. The goal is to support data-driven pricing decisions for sellers, buyers, and real estate investors.
 
 The model helps Maple Valley Realty:Recommend competitive pricing for sellers, Provide buyers with fair market valuations, Identify undervalued properties for investors. 
